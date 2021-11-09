@@ -26,12 +26,13 @@ PKGS=(
 'autojump'
 'awesome-terminal-fonts'
 'brave-bin' # Brave Browser
-'dxvk-bin' # DXVK DirectX to Vulcan
+#'dxvk-bin' # DXVK DirectX to Vulcan
 'github-desktop-bin' # Github Desktop sync
-'lightly-git'
-'lightlyshaders-git'
-'mangohud' # Gaming FPS Counter
-'mangohud-common'
+#'lightly-git'
+#'lightlyshaders-git'
+#'mangohud' # Gaming FPS Counter
+#'mangohud-common'
+'konsave'
 'nerd-fonts-fira-code'
 'nordic-darker-standard-buttons-theme'
 'nordic-darker-theme'
@@ -56,7 +57,7 @@ done
 
 export PATH=$PATH:~/.local/bin
 cp -r $HOME/NCOS/dotfiles/* $HOME/.config/
-pip install konsave
+#pip install konsave
 konsave -i $HOME/NCOS/ncosv1.knsv
 sleep 1
 konsave -a ncosv1
