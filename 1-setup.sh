@@ -130,6 +130,7 @@ PKGS=(
 'kscreen'
 'latte-dock'
 'layer-shell-qt'
+'libvirt'
 'libdvdcss'
 'libnewt'
 'libtool'
