@@ -11,8 +11,9 @@ From initial Prompt type the following commands:
 
 ```
 pacman -Sy git
-git clone https://github.com/exothermic88/ArchTitus
-cd ArchTitus
+git clone https://github.com/exothermic88/NCOS
+cd NCOS
+chmod u+x ./ncos.sh
 ./ncos.sh
 ```
 
