@@ -17,10 +17,10 @@ git clone "https://aur.archlinux.org/yay.git"
 cd ${HOME}/yay
 makepkg -si --noconfirm
 cd ~
-touch "$HOME/.cache/zshhistory"
-git clone "https://github.com/ChrisTitusTech/zsh"
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $HOME/powerlevel10k
-ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
+#touch "$HOME/.cache/zshhistory"
+#git clone "https://github.com/ChrisTitusTech/zsh"
+#git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $HOME/powerlevel10k
+#ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
 
 PKGS=(
 'autojump'
