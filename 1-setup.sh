@@ -201,6 +201,12 @@ PKGS=(
 'zsh'
 'zsh-syntax-highlighting'
 'zsh-autosuggestions'
+'i3-gaps'
+'feh'
+'dmenu'
+'morc_mennu'
+'i3status'
+'wmctrl'
 )
 
 for PKG in "${PKGS[@]}"; do
