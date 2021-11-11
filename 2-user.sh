@@ -60,9 +60,9 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 export PATH=$PATH:~/.local/bin
 cp -r $HOME/NCOS/dotfiles/* $HOME/.config/
 #pip install konsave
-konsave -i $HOME/ncosv1.knsv
+konsave -i $HOME/v2.knsv
 sleep 1
-konsave -a ncosv1
+konsave -a v2
 
 echo -e "\nDone!\n"
 exit
