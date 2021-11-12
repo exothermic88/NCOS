@@ -55,14 +55,14 @@ for PKG in "${PKGS[@]}"; do
     yay -S --noconfirm $PKG
 done
 
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1JkaWN6r5QgPlgBJXoEQDioh82YvlQiXI' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1JkaWN6r5QgPlgBJXoEQDioh82YvlQiXI" -O v2.knsv && rm -rf /tmp/cookies.txt
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1JkaWN6r5QgPlgBJXoEQDioh82YvlQiXI' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1JkaWN6r5QgPlgBJXoEQDioh82YvlQiXI" -O vf.knsv && rm -rf /tmp/cookies.txt
 
 export PATH=$PATH:~/.local/bin
 cp -r $HOME/NCOS/dotfiles/* $HOME/.config/
 #pip install konsave
-konsave -i $HOME/v2.knsv
+konsave -i $HOME/vf.knsv
 sleep 1
-konsave -a v2
+konsave -a vf
 
 echo -e "\nDone!\n"
 exit
