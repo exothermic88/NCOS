@@ -130,7 +130,6 @@ PKGS=(
 'kitty'
 'konsole'
 'kscreen'
-'latte-dock'
 'layer-shell-qt'
 'libvirt'
 'libdvdcss'
@@ -192,7 +191,7 @@ PKGS=(
 'virtualbox'
 'wget'
 'which'
-'wine-gecko'
+'wine-gecko' #run windows apps
 'wine-mono'
 'winetricks'
 'xdg-desktop-portal-kde'
