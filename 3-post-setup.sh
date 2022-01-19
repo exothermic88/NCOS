@@ -24,7 +24,7 @@ systemctl enable sddm.service
 echo -e "\nSetup SDDM Theme"
 cat <<EOF > /etc/sddm.conf
 [Theme]
-Current=Nordic
+#Current=Nordic
 EOF
 
 # ------------------------------------------------------------------------
