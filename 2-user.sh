@@ -58,7 +58,7 @@ done
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1JkaWN6r5QgPlgBJXoEQDioh82YvlQiXI' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1JkaWN6r5QgPlgBJXoEQDioh82YvlQiXI" -O vf.knsv && rm -rf /tmp/cookies.txt
 
 export PATH=$PATH:~/.local/bin
-cp -r $HOME/NCOS/dotfiles/* $HOME/.config/
+cp -r $HOME/NCOS/dotfile/* $HOME/.config/
 #pip install konsave
 konsave -i $HOME/vf.knsv
 sleep 1
