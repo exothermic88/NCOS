@@ -128,7 +128,7 @@ if [[  $TOTALMEM -lt 8000000 ]]; then
     mkswap /mnt/opt/swap/swapfile
     swapon /mnt/opt/swap/swapfile
     #The line below is written to /mnt/ but doesn't contain /mnt/, since it's just / for the sysytem itself.
-    echo "/opt/swap/swapfile	none	swap	sw	0	0" >> /mnt/etc/fstab #Add swap to fstab, so it KEEPS working after installation.
+    #echo "/opt/swap/swapfile	none	swap	sw	0	0" >> /mnt/etc/fstab #Add swap to fstab, so it KEEPS working after installation.
 fi
 echo "--------------------------------------"
 echo "--   SYSTEM READY FOR 1-setup       --"
