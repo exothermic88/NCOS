@@ -1,0 +1,5 @@
+autojump
+brave-bin
+github-desktop-bin
+snapper-gui-git
+ttf-meslo
