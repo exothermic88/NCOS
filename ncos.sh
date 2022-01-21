@@ -15,6 +15,11 @@ echo -ne "
 -------------------------------------------------------------------------
                 Scripts are in directory named NCOS
 "
+    chmod +x 0-preinstall.sh
+    chmod +x 1-setup.sh
+    chmod +x 2-user.sh
+    chmod +x 3-post-setup.sh
+    chmod +x setconsole.sh
     ( bash startup.sh )|& tee startup.log
     source $SCRIPT_DIR/setup.conf
     ( bash 0-preinstall.sh )|& tee 0-preinstall.log
