@@ -1,6 +1,12 @@
 #!/bin/bash
 
 # Find the name of the folder the scripts are in
+chmod +x startup.sh
+chmod +x 0-preinstall.sh
+chmod +x 1-setup.sh
+chmod +x 2-user.sh
+chmod +x 3-post-setup.sh 
+
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 echo -ne "
 -------------------------------------------------------------------------
