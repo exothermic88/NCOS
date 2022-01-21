@@ -18,7 +18,7 @@ chmod +x ./ncos.sh
 ```
 
 ### System Description
-This is completely automated arch install of the KDE desktop environment on arch using all the packages I use on a daily basis. 
+This is completely automated arch install of the KDE desktop environment on arch using all the packages I would use on a daily basis. 
 
 ## Troubleshooting
 
