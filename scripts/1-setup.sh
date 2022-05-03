@@ -161,7 +161,7 @@ echo "password=${password,,}" >> ${HOME}/NCOS/configs/setup.conf
 		fi 
 	done 
 
-    echo "NAME_OF_MACHINE=${name_of_machine,,}" >> ${HOME}/ArchTitus/configs/setup.conf
+    echo "NAME_OF_MACHINE=${name_of_machine,,}" >> ${HOME}/NCOS/configs/setup.conf
 fi
 echo -ne "
 -------------------------------------------------------------------------
