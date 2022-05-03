@@ -5,11 +5,15 @@
 # @brief Entrance script that launches children scripts for each phase of installation.
 
 # Find the name of the folder the scripts are in
-chmod +x /scripts/startup.sh
-chmod +x /scripts/0-preinstall.sh
-chmod +x /scripts/1-setup.sh
-chmod +x /scripts/2-user.sh
-chmod +x /scripts/3-post-setup.sh 
+cd scripts
+
+chmod +x startup.sh
+chmod +x 0-preinstall.sh
+chmod +x 1-setup.sh
+chmod +x 2-user.sh
+chmod +x 3-post-setup.sh 
+
+cd ../
 
 set -a
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
