@@ -18,7 +18,7 @@ echo -ne "
 
 Installing AUR Softwares
 "
-source $HOME/ArchTitus/configs/setup.conf
+source $HOME/NCOS/configs/setup.conf
 
   cd ~
   mkdir "/home/$USERNAME/.cache"
@@ -27,7 +27,7 @@ source $HOME/ArchTitus/configs/setup.conf
   git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
   ln -s "~/zsh/.zshrc" ~/.zshrc
 
-sed -n '/'$INSTALL_TYPE'/q;p' ~/ArchTitus/pkg-files/${DESKTOP_ENV}.txt | while read line
+sed -n '/'$INSTALL_TYPE'/q;p' ~/NCOS/pkg-files/${DESKTOP_ENV}.txt | while read line
 do
   if [[ ${line} == '--END OF MINIMAL INSTALL--' ]]
   then
