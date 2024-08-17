@@ -142,10 +142,12 @@ gdm
 gnome
 neofetch
 networkmanager
+cosmic-session
 
 #############################
 # Custom packages from local/repo
 brave-bin
+paru
 
 ##################################
 # Packages from ALCI-repo
