@@ -140,7 +140,7 @@ xf86-video-amdgpu
 xf86-video-nouveau
 gdm
 gnome
-neofetch
+fastfetch
 networkmanager
 
 #############################
