@@ -35,7 +35,7 @@ Presentation
 
     Image {
         id: background1
-        source: "1-welcometo.png"
+        source: "header_dark.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
         fillMode: Image.Stretch
@@ -59,7 +59,7 @@ Presentation
 
     Image {
         id: background2
-        source: "2-alci.png"
+        source: "Header.png"
         width: parent.width; height: parent.height
         verticalAlignment: Image.AlignTop
         fillMode: Image.Stretch
@@ -69,7 +69,7 @@ Presentation
     Text {
         anchors.horizontalCenter: background2.horizontalCenter
         anchors.top: background2.bottom
-        text: "ALCI"
+        text: "NCOS"
         wrapMode: Text.WordWrap
         width: presentation.width
         horizontalAlignment: Text.Center
