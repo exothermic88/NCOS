@@ -130,36 +130,46 @@ xl2tpd
 zsh
 
 
-###################
+###################################################################
+
 # NCOS PACKAGES
+
+###################################################################
 firefox
 base-devel
 pipewire
+networkmanager
+
 mesa
 xorg-server
 xf86-video-intel
 xf86-video-amdgpu
 xf86-video-nouveau
+
 gdm
 gnome
-fastfetch
-networkmanager
-code
-discord
-spotify-launcher
 cosmic-session
 cosmic-files
 cosmic-terminal
 cosmic-text-editor
 cosmic-wallpapers
 
+fish
+starship
 
-#############################
+fastfetch
+code
+discord
+spotify-launcher
+
+
+
+############################################################################
 # Custom packages from local/repo
 brave-bin
 paru
 
-##################################
+############################################################################
 # Packages from ALCI-repo
 alci-calamares
 
