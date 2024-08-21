@@ -139,6 +139,8 @@ firefox
 base-devel
 pipewire
 networkmanager
+bluez
+bluez-utils
 
 mesa
 xorg-server
@@ -156,6 +158,7 @@ cosmic-wallpapers
 
 fish
 starship
+eza
 
 fastfetch
 code
