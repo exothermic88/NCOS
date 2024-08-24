@@ -155,6 +155,7 @@ cosmic-files
 cosmic-terminal
 cosmic-text-editor
 cosmic-wallpapers
+papirus-icon-theme
 
 fish
 starship
@@ -164,6 +165,7 @@ fastfetch
 code
 discord
 spotify-launcher
+neovim
 
 
 

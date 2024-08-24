@@ -1,0 +1,12 @@
+[
+    "/home/ncos/iso/github/NCOS/ncos/releng/packages.x86_64",
+    "/etc/fish/config.fish",
+    "/etc/dconf/profile/gdm",
+    "/etc/default/grub",
+    "/home/ncos/.config/fish/config.fish",
+    "/etc/dconf/db/gdm.d/95-gdm-settings",
+    "/etc/gdm/custom.conf",
+    "/home/ncos/Downloads/fastfetch_logo(1)",
+    "/home/ncos/.bashrc",
+    "/home/ncos/.bash_logout",
+]

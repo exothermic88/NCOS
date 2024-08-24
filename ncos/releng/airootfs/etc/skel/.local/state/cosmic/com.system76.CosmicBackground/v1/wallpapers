@@ -1,0 +1,5 @@
+[
+    ("VGA-2", Path("/etc/wallpapers/heading_dark.png")),
+    ("LVDS-1", Path("/etc/wallpapers/heading_dark.png")),
+    ("VGA-1", Path("/etc/wallpapers/heading_dark.png")),
+]

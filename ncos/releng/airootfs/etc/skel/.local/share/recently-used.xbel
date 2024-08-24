@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/locale.conf" added="2024-08-14T03:41:18.398883Z" modified="2024-08-15T20:33:25.147074Z" visited="2024-08-14T03:41:18.398885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T20:33:25.147071Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/bootstrap_packages.x86_64" added="2024-08-14T03:41:44.648991Z" modified="2024-08-17T16:43:53.391828Z" visited="2024-08-14T03:41:44.648992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T16:43:53.391826Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/loader.conf" added="2024-08-14T03:41:56.021640Z" modified="2024-08-15T13:10:58.317561Z" visited="2024-08-14T03:41:56.021641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T13:10:58.317554Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/grub/grub.cfg" added="2024-08-14T03:42:09.941324Z" modified="2024-08-15T04:08:28.525868Z" visited="2024-08-14T03:42:09.941325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:08:28.525866Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/grub/loopback.cfg" added="2024-08-14T03:42:29.131499Z" modified="2024-08-15T04:07:37.609536Z" visited="2024-08-14T03:42:29.131501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:07:37.609530Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/splash.png" added="2024-08-14T03:44:25.571666Z" modified="2024-08-15T04:01:01.948239Z" visited="2024-08-14T03:44:25.571667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-15T04:01:01.948237Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2024-08-14T21:45:49.482866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/syslinux.cfg" added="2024-08-14T03:44:53.762685Z" modified="2024-08-15T04:05:14.168807Z" visited="2024-08-14T03:44:53.762687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:05:14.168797Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/pacman.conf" added="2024-08-14T03:45:13.809678Z" modified="2024-08-16T22:51:23.983492Z" visited="2024-08-14T03:45:13.809679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T22:51:23.983486Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicTheme.Mode/v1/is_dark" added="2024-08-14T21:10:13.688912Z" modified="2024-08-20T01:42:11.831017Z" visited="2024-08-14T21:10:13.688914Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-20T01:42:11.831010Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicTheme.Mode/v1/auto_switch" added="2024-08-14T21:10:27.479317Z" modified="2024-08-20T01:42:07.811799Z" visited="2024-08-14T21:10:27.479319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-20T01:42:07.811795Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicAppletTime/v1/show_date_in_top_panel" added="2024-08-14T21:10:49.920995Z" modified="2024-08-14T21:10:49.921003Z" visited="2024-08-14T21:10:49.920996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-14T21:10:49.920999Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/neofetch/config.conf" added="2024-08-14T21:11:27.698206Z" modified="2024-08-14T21:11:27.698212Z" visited="2024-08-14T21:11:27.698207Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-14T21:11:27.698209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.local/state/cosmic/com.system76.CosmicBackground/v1/wallpapers" added="2024-08-14T21:12:22.416576Z" modified="2024-08-17T18:33:47.336654Z" visited="2024-08-14T21:12:22.416577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-17T18:33:47.336649Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/packages.x86_64" added="2024-08-14T21:25:04.315813Z" modified="2024-08-17T18:37:11.651337Z" visited="2024-08-14T21:25:04.315815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-17T18:37:11.651332Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_head.cfg" added="2024-08-14T21:45:05.118522Z" modified="2024-08-15T04:01:51.148824Z" visited="2024-08-14T21:45:05.118523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:01:51.148817Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_pxe.cfg" added="2024-08-14T21:45:21.132524Z" modified="2024-08-15T04:02:14.512076Z" visited="2024-08-14T21:45:21.132526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:02:14.512070Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_pxe-linux.cfg" added="2024-08-14T21:45:28.058339Z" modified="2024-08-15T04:02:20.146272Z" visited="2024-08-14T21:45:28.058341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:02:20.146266Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/entries/01-archiso-x86_64-linux.conf" added="2024-08-14T21:46:40.717083Z" modified="2024-08-15T13:11:04.039471Z" visited="2024-08-14T21:46:40.717084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T13:11:04.039464Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/usr/local/bin/Installation_guide" added="2024-08-14T21:47:14.241119Z" modified="2024-08-14T21:47:14.241126Z" visited="2024-08-14T21:47:14.241121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-14T21:47:14.241123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/usr/local/bin/choose-mirror" added="2024-08-14T21:47:19.677537Z" modified="2024-08-17T04:04:33.862071Z" visited="2024-08-14T21:47:19.677538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-17T04:04:33.862068Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/passwd" added="2024-08-14T22:09:27.281804Z" modified="2024-08-16T23:22:36.340881Z" visited="2024-08-14T22:09:27.281806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:22:36.340875Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/shadow" added="2024-08-14T22:10:47.755582Z" modified="2024-08-16T23:22:32.688685Z" visited="2024-08-14T22:10:47.755584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:22:32.688679Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Pictures/Screenshots/Screenshot%20from%202024-08-14%2018-14-13.png" added="2024-08-14T22:14:13.354613Z" modified="2024-08-14T22:14:13.354617Z" visited="2024-08-14T22:14:13.354614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-08-14T22:14:13.354614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Pictures/Screenshots/Screenshot%20from%202024-08-14%2018-14-25.png" added="2024-08-14T22:14:25.704515Z" modified="2024-08-14T22:14:25.704518Z" visited="2024-08-14T22:14:25.704516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-08-14T22:14:25.704516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/profiledef.sh" added="2024-08-14T22:16:13.820244Z" modified="2024-08-17T17:55:13.752636Z" visited="2024-08-14T22:16:13.820245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T17:55:13.752634Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Pictures/Screenshots/Screenshot%20from%202024-08-14%2018-16-50.png" added="2024-08-14T22:16:50.695762Z" modified="2024-08-14T22:16:50.695770Z" visited="2024-08-14T22:16:50.695764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-08-14T22:16:50.695764Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Pictures/Screenshots/Screenshot%20from%202024-08-14%2018-17-21.png" added="2024-08-14T22:17:21.332904Z" modified="2024-08-14T22:17:21.332908Z" visited="2024-08-14T22:17:21.332905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-08-14T22:17:21.332905Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Pictures/Screenshots/Screenshot%20from%202024-08-14%2018-17-22.png" added="2024-08-14T22:17:22.013963Z" modified="2024-08-14T22:17:22.013972Z" visited="2024-08-14T22:17:22.013964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2024-08-14T22:17:22.013967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/hostname" added="2024-08-14T22:21:48.339155Z" modified="2024-08-15T20:33:28.162696Z" visited="2024-08-14T22:21:48.339156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T20:33:28.162692Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/os-release" added="2024-08-14T22:30:41.588194Z" modified="2024-08-15T20:33:16.641435Z" visited="2024-08-14T22:30:41.588195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T20:33:16.641432Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/logind.conf.d/do-not-suspend.conf" added="2024-08-14T22:45:16.377531Z" modified="2024-08-15T04:51:48.299050Z" visited="2024-08-14T22:45:16.377532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:51:48.299048Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/choose-mirror.service" added="2024-08-14T23:34:02.345752Z" modified="2024-08-14T23:34:07.519758Z" visited="2024-08-14T23:34:02.345753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-14T23:34:07.519750Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/display-manager.service" added="2024-08-14T23:34:14.809159Z" modified="2024-08-15T16:49:57.007047Z" visited="2024-08-14T23:34:14.809160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T16:49:57.007038Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/iwd.service" added="2024-08-15T03:42:36.781460Z" modified="2024-08-15T03:42:36.781466Z" visited="2024-08-15T03:42:36.781461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:42:36.781463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/systemd-networkd.service" added="2024-08-15T03:42:48.719468Z" modified="2024-08-15T03:42:48.719474Z" visited="2024-08-15T03:42:48.719469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:42:48.719471Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/skel/.bashrc" added="2024-08-15T03:44:16.644010Z" modified="2024-08-15T03:44:16.644019Z" visited="2024-08-15T03:44:16.644011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:44:16.644013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/skel/.bash_profile" added="2024-08-15T03:44:20.628418Z" modified="2024-08-15T03:44:20.628428Z" visited="2024-08-15T03:44:20.628419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:44:20.628422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/skel/.bash_logout" added="2024-08-15T03:44:23.904839Z" modified="2024-08-15T03:44:23.904866Z" visited="2024-08-15T03:44:23.904841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:44:23.904843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/resolved.conf.d/archiso.conf" added="2024-08-15T03:44:53.711438Z" modified="2024-08-15T03:44:53.711444Z" visited="2024-08-15T03:44:53.711439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:44:53.711441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/livecd-talk.service" added="2024-08-15T03:49:09.274641Z" modified="2024-08-15T03:49:09.274649Z" visited="2024-08-15T03:49:09.274642Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:49:09.274645Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/dbus-org.freedesktop.timesync1.service" added="2024-08-15T03:49:15.315404Z" modified="2024-08-15T03:49:15.315412Z" visited="2024-08-15T03:49:15.315406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:49:15.315408Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/dbus-org.freedesktop.network1.service" added="2024-08-15T03:49:42.312298Z" modified="2024-08-15T03:49:42.312306Z" visited="2024-08-15T03:49:42.312300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:49:42.312302Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/sshd.service" added="2024-08-15T03:50:04.612128Z" modified="2024-08-15T03:50:04.612136Z" visited="2024-08-15T03:50:04.612129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T03:50:04.612132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Downloads/360_F_531840194_UJ6Xv6RRNbOK45F3ELWLJL4b55Lpdxju.jpg" added="2024-08-15T03:57:47.158800Z" modified="2024-08-15T03:58:37.289245Z" visited="2024-08-15T03:57:47.158803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-15T03:58:37.289241Z" count="3"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-15T03:57:55.727043Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Downloads/image.png" added="2024-08-15T03:58:50.664160Z" modified="2024-08-15T03:58:50.664168Z" visited="2024-08-15T03:58:50.664162Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-15T03:58:50.664164Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_sys.cfg" added="2024-08-15T04:04:03.438963Z" modified="2024-08-15T04:04:03.438967Z" visited="2024-08-15T04:04:03.438963Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:04:03.438965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_sys-linux.cfg" added="2024-08-15T04:04:12.199561Z" modified="2024-08-15T04:04:12.199566Z" visited="2024-08-15T04:04:12.199562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:04:12.199563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_tail.cfg" added="2024-08-15T04:04:58.157702Z" modified="2024-08-15T04:04:58.157706Z" visited="2024-08-15T04:04:58.157703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:04:58.157704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf" added="2024-08-15T04:13:57.559223Z" modified="2024-08-15T04:53:24.770933Z" visited="2024-08-15T04:13:57.559224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:53:24.770930Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/default.target" added="2024-08-15T04:22:46.579628Z" modified="2024-08-15T04:22:46.579633Z" visited="2024-08-15T04:22:46.579629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:22:46.579631Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/default.target" added="2024-08-15T04:23:39.885901Z" modified="2024-08-15T13:30:43.689202Z" visited="2024-08-15T04:23:39.885902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T13:30:43.689200Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/network/20-wlan.network" added="2024-08-15T04:51:36.892778Z" modified="2024-08-15T04:51:36.892784Z" visited="2024-08-15T04:51:36.892779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T04:51:36.892781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.bashrc" added="2024-08-15T13:03:37.617778Z" modified="2024-08-15T13:03:37.617793Z" visited="2024-08-15T13:03:37.617780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T13:03:37.617785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/ISO" added="2024-08-15T13:06:02.676676Z" modified="2024-08-15T13:06:02.676681Z" visited="2024-08-15T13:06:02.676677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-15T13:06:02.676678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/entries/02-archiso-x86_64-speech-linux.conf" added="2024-08-15T13:11:18.427460Z" modified="2024-08-15T13:11:18.427466Z" visited="2024-08-15T13:11:18.427461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T13:11:18.427462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/entries/03-archiso-x86_64-memtest86+.conf" added="2024-08-15T13:11:30.180738Z" modified="2024-08-15T13:11:30.180748Z" visited="2024-08-15T13:11:30.180739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T13:11:30.180745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/display-manager.service" added="2024-08-15T16:49:03.044742Z" modified="2024-08-15T16:49:03.044747Z" visited="2024-08-15T16:49:03.044743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T16:49:03.044745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/getty.target.wants/getty@tty1.service" added="2024-08-15T16:49:11.332155Z" modified="2024-08-15T16:49:11.332162Z" visited="2024-08-15T16:49:11.332156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T16:49:11.332158Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/gshadow" added="2024-08-15T17:24:11.004731Z" modified="2024-08-15T21:14:37.223715Z" visited="2024-08-15T17:24:11.004732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T21:14:37.223712Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/group" added="2024-08-15T17:27:55.120473Z" modified="2024-08-15T21:10:26.775767Z" visited="2024-08-15T17:27:55.120474Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T21:10:26.775765Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/root/.zlogin" added="2024-08-15T20:36:01.599460Z" modified="2024-08-15T20:36:01.599469Z" visited="2024-08-15T20:36:01.599462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-15T20:36:01.599465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/root/.automated_script.sh" added="2024-08-15T20:45:40.725407Z" modified="2024-08-15T20:45:40.725413Z" visited="2024-08-15T20:45:40.725408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2024-08-15T20:45:40.725410Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pacman.conf" added="2024-08-16T20:50:44.945188Z" modified="2024-08-16T20:50:44.945201Z" visited="2024-08-16T20:50:44.945190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T20:50:44.945195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/show.qml" added="2024-08-16T20:59:41.758998Z" modified="2024-08-16T20:59:41.759003Z" visited="2024-08-16T20:59:41.758999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-qml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T20:59:41.759001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/xdg/autostart/calamares.desktop" added="2024-08-16T21:01:03.687715Z" modified="2024-08-16T21:01:03.687720Z" visited="2024-08-16T21:01:03.687716Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T21:01:03.687717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/settings.conf" added="2024-08-16T21:09:22.306278Z" modified="2024-08-16T21:09:22.306284Z" visited="2024-08-16T21:09:22.306280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T21:09:22.306281Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Downloads/splash.png" added="2024-08-16T22:31:39.191344Z" modified="2024-08-16T22:31:39.441137Z" visited="2024-08-16T22:31:39.191344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-08-16T22:31:39.191347Z" count="1"/>
+          <bookmark:application name="discord" exec="&apos;gio open %u&apos;" modified="2024-08-16T22:31:39.441135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/sudoers.d" added="2024-08-16T22:43:22.143487Z" modified="2024-08-16T22:43:22.143493Z" visited="2024-08-16T22:43:22.143488Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-16T22:43:22.143490Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/g_wheel" added="2024-08-16T22:46:18.745702Z" modified="2024-08-16T22:46:18.745714Z" visited="2024-08-16T22:46:18.745704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-matlab"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T22:46:18.745708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/sudoers.d/g_wheel" added="2024-08-16T22:46:40.990459Z" modified="2024-08-16T22:46:40.990468Z" visited="2024-08-16T22:46:40.990460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-matlab"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T22:46:40.990462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/README.md" added="2024-08-16T23:01:11.140125Z" modified="2024-08-16T23:18:34.564322Z" visited="2024-08-16T23:01:11.140126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:18:34.564314Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/branding/default/1-welcometo.png" added="2024-08-16T23:01:44.785922Z" modified="2024-08-16T23:01:44.785928Z" visited="2024-08-16T23:01:44.785923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-16T23:01:44.785926Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/branding/default/alci.png" added="2024-08-16T23:02:02.327980Z" modified="2024-08-16T23:02:02.327985Z" visited="2024-08-16T23:02:02.327981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-16T23:02:02.327983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/branding/default/2-alci.png" added="2024-08-16T23:02:06.466111Z" modified="2024-08-16T23:02:06.466116Z" visited="2024-08-16T23:02:06.466112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-16T23:02:06.466114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/branding/default/branding.desc" added="2024-08-16T23:02:21.412808Z" modified="2024-08-16T23:07:51.414978Z" visited="2024-08-16T23:02:21.412809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:07:51.414971Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/packages.conf" added="2024-08-16T23:04:47.377170Z" modified="2024-08-16T23:15:07.345300Z" visited="2024-08-16T23:04:47.377171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:07.345294Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/removeuser.conf" added="2024-08-16T23:06:15.789719Z" modified="2024-08-16T23:15:36.788109Z" visited="2024-08-16T23:06:15.789720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:36.788103Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/welcome.conf" added="2024-08-16T23:06:24.538360Z" modified="2024-08-16T23:16:00.524735Z" visited="2024-08-16T23:06:24.538362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:16:00.524728Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/bootloader.conf" added="2024-08-16T23:06:38.744103Z" modified="2024-08-16T23:06:38.744109Z" visited="2024-08-16T23:06:38.744104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:06:38.744106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/finished.conf" added="2024-08-16T23:06:55.403719Z" modified="2024-08-16T23:06:55.403726Z" visited="2024-08-16T23:06:55.403720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:06:55.403723Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/displaymanager.conf" added="2024-08-16T23:07:01.760502Z" modified="2024-08-16T23:09:54.315622Z" visited="2024-08-16T23:07:01.760503Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:09:54.315611Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/settings.conf" added="2024-08-16T23:07:59.793044Z" modified="2024-08-16T23:07:59.793051Z" visited="2024-08-16T23:07:59.793045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:07:59.793047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/users.conf" added="2024-08-16T23:08:34.029605Z" modified="2024-08-16T23:15:56.400407Z" visited="2024-08-16T23:08:34.029605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:56.400402Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/grubcfg.conf" added="2024-08-16T23:14:54.773949Z" modified="2024-08-16T23:14:54.773954Z" visited="2024-08-16T23:14:54.773950Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:14:54.773952Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/initcpio.conf" added="2024-08-16T23:15:00.717264Z" modified="2024-08-16T23:15:00.717271Z" visited="2024-08-16T23:15:00.717266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:00.717268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/preservefiles.conf" added="2024-08-16T23:15:28.443009Z" modified="2024-08-16T23:15:28.443015Z" visited="2024-08-16T23:15:28.443010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:28.443012Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/shellprocess-before.conf" added="2024-08-16T23:15:41.679296Z" modified="2024-08-16T23:15:41.679302Z" visited="2024-08-16T23:15:41.679297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:41.679299Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/unpackfs.conf" added="2024-08-16T23:15:48.337422Z" modified="2024-08-16T23:15:48.337428Z" visited="2024-08-16T23:15:48.337423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-16T23:15:48.337425Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/output/ncos-2024.08.16-x86_64.iso" added="2024-08-16T23:57:20.168309Z" modified="2024-08-17T02:38:16.205035Z" visited="2024-08-16T23:57:20.168311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-16T23:57:20.168325Z" count="1"/>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2024-08-17T02:38:16.205033Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/settings.conf" added="2024-08-17T00:47:28.539111Z" modified="2024-08-17T00:47:28.539123Z" visited="2024-08-17T00:47:28.539112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:47:28.539118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/bootloader.conf" added="2024-08-17T00:47:58.424957Z" modified="2024-08-17T00:47:58.424963Z" visited="2024-08-17T00:47:58.424958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:47:58.424961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/finished.conf" added="2024-08-17T00:48:02.929356Z" modified="2024-08-17T00:48:02.929364Z" visited="2024-08-17T00:48:02.929357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:48:02.929360Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/unpackfs.conf" added="2024-08-17T00:48:16.231263Z" modified="2024-08-17T01:39:04.101098Z" visited="2024-08-17T00:48:16.231264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T01:39:04.101091Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/shellprocess-before.conf" added="2024-08-17T00:49:24.488850Z" modified="2024-08-17T00:49:24.488855Z" visited="2024-08-17T00:49:24.488851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:49:24.488853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/shellprocess-final.conf" added="2024-08-17T00:49:31.382338Z" modified="2024-08-17T17:55:44.878990Z" visited="2024-08-17T00:49:31.382340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T17:55:44.878987Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/mkinitcpio.conf.d/archiso.conf" added="2024-08-17T00:53:43.104275Z" modified="2024-08-17T00:53:43.104282Z" visited="2024-08-17T00:53:43.104277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:53:43.104279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/preservefiles.conf" added="2024-08-17T00:57:55.413679Z" modified="2024-08-17T00:57:55.413685Z" visited="2024-08-17T00:57:55.413680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:57:55.413683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/partition.conf" added="2024-08-17T00:58:13.764172Z" modified="2024-08-17T00:58:13.764181Z" visited="2024-08-17T00:58:13.764174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:58:13.764177Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/locale.conf" added="2024-08-17T00:58:24.328550Z" modified="2024-08-17T00:58:24.328556Z" visited="2024-08-17T00:58:24.328551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:58:24.328553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/grubcfg.conf" added="2024-08-17T00:58:30.852025Z" modified="2024-08-17T00:58:30.852029Z" visited="2024-08-17T00:58:30.852026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:58:30.852027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/mount.conf" added="2024-08-17T00:58:36.222024Z" modified="2024-08-17T00:58:36.222030Z" visited="2024-08-17T00:58:36.222025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:58:36.222028Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/packages.conf" added="2024-08-17T00:58:50.260539Z" modified="2024-08-17T00:58:50.260546Z" visited="2024-08-17T00:58:50.260541Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T00:58:50.260543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Downloads/displaymanager.conf" added="2024-08-17T02:20:11.943189Z" modified="2024-08-17T02:20:11.943198Z" visited="2024-08-17T02:20:11.943190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-17T02:20:11.943192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/displaymanager.conf" added="2024-08-17T02:20:32.411337Z" modified="2024-08-17T02:20:32.411343Z" visited="2024-08-17T02:20:32.411338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T02:20:32.411340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/info/exclude" added="2024-08-17T13:38:38.411048Z" modified="2024-08-17T14:09:45.449442Z" visited="2024-08-17T13:38:38.411049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T14:09:45.449438Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/refs/heads/main" added="2024-08-17T13:43:30.371494Z" modified="2024-08-17T13:43:30.371502Z" visited="2024-08-17T13:43:30.371495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T13:43:30.371498Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/description" added="2024-08-17T13:43:40.733183Z" modified="2024-08-17T13:43:40.733189Z" visited="2024-08-17T13:43:40.733184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T13:43:40.733186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/config" added="2024-08-17T13:43:43.791556Z" modified="2024-08-17T13:43:43.791561Z" visited="2024-08-17T13:43:43.791557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-08-17T13:43:43.791558Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github" added="2024-08-17T14:07:13.456715Z" modified="2024-08-17T14:07:13.456720Z" visited="2024-08-17T14:07:13.456716Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-17T14:07:13.456718Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/output/ncos-2024.08.17-x86_64.iso" added="2024-08-17T15:49:29.428233Z" modified="2024-08-17T19:02:34.565893Z" visited="2024-08-17T15:49:29.428234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2024-08-17T19:02:34.565889Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/ncos/releng/packages.x86_64" added="2024-08-17T17:58:18.049254Z" modified="2024-08-20T23:25:00.650500Z" visited="2024-08-17T17:58:18.049255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-20T23:25:00.650499Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/fastfetch" added="2024-08-17T18:25:08.401957Z" modified="2024-08-17T18:25:08.401963Z" visited="2024-08-17T18:25:08.401958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-08-17T18:25:08.401960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/fastfetch/jsonc" added="2024-08-17T18:25:22.658346Z" modified="2024-08-17T18:25:44.738288Z" visited="2024-08-17T18:25:22.658347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/schema+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-17T18:25:44.738280Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/jsonc" added="2024-08-17T18:28:10.098664Z" modified="2024-08-17T18:28:43.555290Z" visited="2024-08-17T18:28:10.098665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/schema+json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-08-17T18:28:43.555285Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.local/state/cosmic-comp/outputs.ron" added="2024-08-17T18:34:02.145762Z" modified="2024-08-17T18:34:02.145772Z" visited="2024-08-17T18:34:02.145763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-17T18:34:02.145767Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.gitconfig" added="2024-08-17T18:35:53.348294Z" modified="2024-08-17T18:35:53.348302Z" visited="2024-08-17T18:35:53.348295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-17T18:35:53.348298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.git-credentials" added="2024-08-17T18:35:58.704823Z" modified="2024-08-17T18:35:58.704831Z" visited="2024-08-17T18:35:58.704824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-17T18:35:58.704826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicTheme.Dark/v1/background" added="2024-08-20T01:42:22.938198Z" modified="2024-08-20T01:42:22.938204Z" visited="2024-08-20T01:42:22.938199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-20T01:42:22.938201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicBackground/v1/all" added="2024-08-20T01:43:07.542155Z" modified="2024-08-20T01:43:32.502343Z" visited="2024-08-20T01:43:07.542156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-20T01:43:32.502337Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicBackground/v1/same-on-all" added="2024-08-20T01:43:20.778601Z" modified="2024-08-20T01:43:20.945331Z" visited="2024-08-20T01:43:20.778602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;cosmic-edit %F&apos;" modified="2024-08-20T01:43:20.945323Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.cache/cosmic-settings/wallpapers/8f831f6b0eeae3ec.png" added="2024-08-20T01:52:12.268373Z" modified="2024-08-20T01:52:12.268378Z" visited="2024-08-20T01:52:12.268374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-20T01:52:12.268375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/wallpapers/heading_dark.png" added="2024-08-20T03:13:29.182278Z" modified="2024-08-20T03:13:29.182282Z" visited="2024-08-20T03:13:29.182279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-20T03:13:29.182280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/gdm-logo" added="2024-08-20T03:47:44.507541Z" modified="2024-08-20T03:47:44.507546Z" visited="2024-08-20T03:47:44.507542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-20T03:47:44.507543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Pictures/screenshot-2024-08-20-12-57-53.png" added="2024-08-20T12:58:05.433881Z" modified="2024-08-20T12:58:05.433885Z" visited="2024-08-20T12:58:05.433882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2024-08-20T12:58:05.433884Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Downloads/fastfetch_logo" added="2024-08-20T21:07:18.178748Z" modified="2024-08-20T21:42:47.249672Z" visited="2024-08-20T21:07:18.178750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T21:42:47.249669Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/Downloads/fastfetch_logo(1)" added="2024-08-20T21:29:38.610789Z" modified="2024-08-20T21:45:50.563600Z" visited="2024-08-20T21:29:38.610789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-08-20T21:45:50.563596Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

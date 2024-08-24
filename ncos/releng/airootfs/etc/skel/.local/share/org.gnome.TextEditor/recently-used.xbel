@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/locale.conf" added="2024-08-14T03:41:21.543920Z" modified="2024-08-15T21:12:25.291598Z" visited="2024-08-15T17:10:20.926360-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T21:12:25.291598Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/bootstrap_packages.x86_64" added="2024-08-14T03:41:47.550318Z" modified="2024-08-17T16:49:56.795741Z" visited="2024-08-17T12:43:53.531827-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T16:49:56.795741Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/loader.conf" added="2024-08-14T03:41:59.420244Z" modified="2024-08-15T13:11:42.958624Z" visited="2024-08-15T09:10:58.400650-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958624Z" count="97"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/grub/grub.cfg" added="2024-08-14T03:42:13.551311Z" modified="2024-08-15T13:11:42.958618Z" visited="2024-08-15T09:03:38.256399-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958618Z" count="143"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/grub/loopback.cfg" added="2024-08-14T03:42:32.550186Z" modified="2024-08-15T13:11:42.958627Z" visited="2024-08-15T09:03:38.310415-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958627Z" count="85"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/syslinux.cfg" added="2024-08-14T03:44:57.549943Z" modified="2024-08-15T05:05:16.198982Z" visited="2024-08-15T00:05:14.254861-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198982Z" count="120"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/pacman.conf" added="2024-08-14T03:45:17.550315Z" modified="2024-08-20T23:13:57.502342Z" visited="2024-08-20T19:13:43.002984-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502340Z" count="466"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicTheme.Mode/v1/is_dark" added="2024-08-14T21:10:17.446658Z" modified="2024-08-14T21:11:53.976586Z" visited="2024-08-14T17:11:28.613102-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-14T21:11:53.976585Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicTheme.Mode/v1/auto_switch" added="2024-08-14T21:10:30.446348Z" modified="2024-08-14T21:11:53.976575Z" visited="2024-08-14T17:11:28.586370-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-14T21:11:53.976573Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/cosmic/com.system76.CosmicAppletTime/v1/show_date_in_top_panel" added="2024-08-14T21:10:53.470356Z" modified="2024-08-14T21:11:53.976555Z" visited="2024-08-14T17:11:28.584427-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-14T21:11:53.976553Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.config/neofetch/config.conf" added="2024-08-14T21:11:31.445424Z" modified="2024-08-14T21:11:53.976546Z" visited="2024-08-14T17:11:28.625945-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-14T21:11:53.976542Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.local/state/cosmic/com.system76.CosmicBackground/v1/wallpapers" added="2024-08-14T21:12:25.447358Z" modified="2024-08-14T22:44:50.942039Z" visited="2024-08-14T18:30:42.243917-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-14T22:44:50.942038Z" count="99"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/packages.x86_64" added="2024-08-14T21:25:07.469661Z" modified="2024-08-20T23:13:57.502345Z" visited="2024-08-20T19:13:43.061988-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502344Z" count="414"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_head.cfg" added="2024-08-14T21:45:08.446177Z" modified="2024-08-15T05:05:16.198963Z" visited="2024-08-15T00:01:51.687649-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198961Z" count="153"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_pxe.cfg" added="2024-08-14T21:45:24.445274Z" modified="2024-08-15T05:05:16.198986Z" visited="2024-08-15T00:02:14.592858-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198986Z" count="145"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_pxe-linux.cfg" added="2024-08-14T21:45:31.445548Z" modified="2024-08-15T05:05:16.198977Z" visited="2024-08-15T00:02:20.228727-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198976Z" count="142"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/entries/01-archiso-x86_64-linux.conf" added="2024-08-14T21:46:44.446684Z" modified="2024-08-15T13:11:42.958620Z" visited="2024-08-15T09:11:04.125014-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958619Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/passwd" added="2024-08-14T22:09:30.466307Z" modified="2024-08-20T23:13:57.502292Z" visited="2024-08-20T19:13:43.279185-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502290Z" count="337"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/shadow" added="2024-08-14T22:10:51.466763Z" modified="2024-08-20T23:13:57.502326Z" visited="2024-08-20T19:13:43.061304-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502325Z" count="298"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/hostname" added="2024-08-14T22:21:51.467721Z" modified="2024-08-15T21:12:25.291593Z" visited="2024-08-15T17:10:20.928164-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T21:12:25.291591Z" count="35"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/os-release" added="2024-08-14T22:30:44.466751Z" modified="2024-08-15T21:12:25.291597Z" visited="2024-08-15T17:10:20.925762-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T21:12:25.291596Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/logind.conf.d/do-not-suspend.conf" added="2024-08-14T22:45:19.207298Z" modified="2024-08-15T05:05:16.198995Z" visited="2024-08-15T00:51:48.394974-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198994Z" count="66"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/choose-mirror.service" added="2024-08-14T23:34:05.464453Z" modified="2024-08-15T04:01:35.919146Z" visited="2024-08-14T23:50:41.350385-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919145Z" count="48"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/iwd.service" added="2024-08-15T03:42:40.462274Z" modified="2024-08-15T03:42:41.283436Z" visited="2024-08-14T23:42:37.420102-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T03:42:41.283435Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/systemd-networkd.service" added="2024-08-15T03:42:52.464663Z" modified="2024-08-15T04:01:35.919158Z" visited="2024-08-14T23:50:41.373437-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919157Z" count="34"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/skel/.bashrc" added="2024-08-15T03:44:19.803973Z" modified="2024-08-15T04:01:35.919160Z" visited="2024-08-14T23:50:41.374493-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919159Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/skel/.bash_profile" added="2024-08-15T03:44:23.121635Z" modified="2024-08-15T04:01:35.919167Z" visited="2024-08-14T23:50:41.367333-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919167Z" count="30"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/skel/.bash_logout" added="2024-08-15T03:44:25.954363Z" modified="2024-08-15T04:01:35.919168Z" visited="2024-08-14T23:50:41.375643-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919168Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/resolved.conf.d/archiso.conf" added="2024-08-15T03:44:57.463035Z" modified="2024-08-15T03:49:12.658808Z" visited="2024-08-14T23:44:54.384197-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T03:49:12.658807Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/livecd-talk.service" added="2024-08-15T03:49:12.463247Z" modified="2024-08-15T04:01:35.919161Z" visited="2024-08-14T23:50:41.378242-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919161Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/dbus-org.freedesktop.timesync1.service" added="2024-08-15T03:49:18.465468Z" modified="2024-08-15T04:01:35.919143Z" visited="2024-08-14T23:50:41.376961-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919141Z" count="24"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/dbus-org.freedesktop.network1.service" added="2024-08-15T03:49:45.462948Z" modified="2024-08-15T04:01:35.919163Z" visited="2024-08-14T23:50:41.368407-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919162Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/multi-user.target.wants/sshd.service" added="2024-08-15T03:50:07.462878Z" modified="2024-08-15T04:01:35.919153Z" visited="2024-08-14T23:50:41.379923-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T04:01:35.919153Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/profiledef.sh" added="2024-08-15T03:53:26.466624Z" modified="2024-08-17T17:55:54.858344Z" visited="2024-08-17T13:55:14.690415-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T17:55:54.858344Z" count="35"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_sys.cfg" added="2024-08-15T04:04:04.476297Z" modified="2024-08-15T05:05:16.198973Z" visited="2024-08-15T00:04:03.519941-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198972Z" count="56"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_sys-linux.cfg" added="2024-08-15T04:04:15.462132Z" modified="2024-08-15T05:05:16.198966Z" visited="2024-08-15T00:04:12.281512-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198965Z" count="55"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/syslinux/archiso_tail.cfg" added="2024-08-15T04:05:01.463854Z" modified="2024-08-15T05:05:16.198979Z" visited="2024-08-15T00:04:58.243320-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198978Z" count="46"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf" added="2024-08-15T04:14:00.461450Z" modified="2024-08-15T05:05:16.198985Z" visited="2024-08-15T00:13:57.640908-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198984Z" count="33"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/default.target" added="2024-08-15T04:22:49.462805Z" modified="2024-08-15T05:05:16.198968Z" visited="2024-08-15T00:22:46.666158-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198967Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/default.target" added="2024-08-15T04:23:43.464010Z" modified="2024-08-15T21:12:25.291604Z" visited="2024-08-15T17:10:20.917751-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T21:12:25.291603Z" count="54"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/network/20-wlan.network" added="2024-08-15T04:51:40.463764Z" modified="2024-08-15T05:05:16.198991Z" visited="2024-08-15T00:51:36.993624-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T05:05:16.198990Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/.bashrc" added="2024-08-15T13:03:41.439428Z" modified="2024-08-15T13:11:42.958623Z" visited="2024-08-15T09:03:38.275670-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958622Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/entries/02-archiso-x86_64-speech-linux.conf" added="2024-08-15T13:11:20.440968Z" modified="2024-08-15T13:11:42.958630Z" visited="2024-08-15T09:11:18.504972-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958630Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/efiboot/loader/entries/03-archiso-x86_64-memtest86+.conf" added="2024-08-15T13:11:30.438623Z" modified="2024-08-15T13:11:42.958626Z" visited="2024-08-15T09:11:30.250987-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T13:11:42.958625Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/display-manager.service" added="2024-08-15T16:49:05.849212Z" modified="2024-08-15T21:12:25.291602Z" visited="2024-08-15T17:10:20.892431-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T21:12:25.291602Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/getty.target.wants/getty@tty1.service" added="2024-08-15T16:49:14.409937Z" modified="2024-08-15T16:49:19.870517Z" visited="2024-08-15T12:49:11.904806-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T16:49:19.870517Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/systemd/system/display-manager.service" added="2024-08-15T16:50:00.414158Z" modified="2024-08-15T16:50:04.862093Z" visited="2024-08-15T12:49:57.569469-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T16:50:04.862093Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/gshadow" added="2024-08-15T17:24:14.409520Z" modified="2024-08-20T23:13:57.502307Z" visited="2024-08-20T19:13:43.001208-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502305Z" count="292"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/group" added="2024-08-15T17:27:58.409659Z" modified="2024-08-15T21:12:25.291605Z" visited="2024-08-15T17:10:20.924740-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T21:12:25.291605Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/root/.zlogin" added="2024-08-15T20:36:05.410163Z" modified="2024-08-15T20:36:09.701096Z" visited="2024-08-15T16:36:01.696983-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-15T20:36:09.701092Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pacman.conf" added="2024-08-16T20:50:48.461270Z" modified="2024-08-16T20:59:50.714220Z" visited="2024-08-16T16:50:45.607983-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T20:59:50.714220Z" count="24"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/pacman.conf" added="2024-08-16T20:53:07.461120Z" modified="2024-08-16T22:35:29.793523Z" visited="2024-08-16T17:01:10.340122-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T22:35:29.793522Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/calamares/branding/default/show.qml" added="2024-08-16T20:59:45.505220Z" modified="2024-08-16T20:59:50.714219Z" visited="2024-08-16T16:59:41.870981-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T20:59:50.714219Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/xdg/autostart/calamares.desktop" added="2024-08-16T21:01:07.461001Z" modified="2024-08-16T22:35:29.793527Z" visited="2024-08-16T17:01:04.298967-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T22:35:29.793527Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/calamares/settings.conf" added="2024-08-16T21:09:25.460023Z" modified="2024-08-20T23:13:57.502334Z" visited="2024-08-20T19:13:43.320927-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502333Z" count="193"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/sudoers.d/g_wheel" added="2024-08-16T22:46:43.089953Z" modified="2024-08-20T23:13:57.502318Z" visited="2024-08-20T19:13:43.278458-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502317Z" count="165"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/README.md" added="2024-08-16T23:01:14.460473Z" modified="2024-08-20T23:13:57.502338Z" visited="2024-08-20T19:13:43.172908-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502336Z" count="110"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/branding/default/branding.desc" added="2024-08-16T23:02:24.120014Z" modified="2024-08-16T23:18:37.209897Z" visited="2024-08-16T19:15:49.309409-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209894Z" count="40"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/packages.conf" added="2024-08-16T23:04:50.462105Z" modified="2024-08-16T23:15:39.435061Z" visited="2024-08-16T19:15:08.209103-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:15:39.435060Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/removeuser.conf" added="2024-08-16T23:06:19.464097Z" modified="2024-08-16T23:18:37.209861Z" visited="2024-08-16T19:15:49.258849-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209859Z" count="40"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/welcome.conf" added="2024-08-16T23:06:27.480220Z" modified="2024-08-16T23:18:37.209813Z" visited="2024-08-16T19:15:49.254955-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209811Z" count="38"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/bootloader.conf" added="2024-08-16T23:06:42.461628Z" modified="2024-08-16T23:15:03.497185Z" visited="2024-08-16T19:06:39.532378-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:15:03.497184Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/finished.conf" added="2024-08-16T23:06:58.460160Z" modified="2024-08-16T23:15:03.497160Z" visited="2024-08-16T19:06:55.489713-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:15:03.497159Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/settings.conf" added="2024-08-16T23:08:03.460764Z" modified="2024-08-16T23:15:03.497163Z" visited="2024-08-16T19:07:59.896413-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:15:03.497162Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/users.conf" added="2024-08-16T23:08:37.461046Z" modified="2024-08-16T23:18:37.209868Z" visited="2024-08-16T19:15:49.256390-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209866Z" count="19"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/grubcfg.conf" added="2024-08-16T23:14:58.482699Z" modified="2024-08-16T23:15:03.497199Z" visited="2024-08-16T19:14:54.881449-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:15:03.497198Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/initcpio.conf" added="2024-08-16T23:15:03.497170Z" modified="2024-08-16T23:18:37.209820Z" visited="2024-08-16T19:15:49.256924-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209818Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/preservefiles.conf" added="2024-08-16T23:15:31.463121Z" modified="2024-08-16T23:18:37.209806Z" visited="2024-08-16T19:15:49.258195-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209803Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/shellprocess-before.conf" added="2024-08-16T23:15:45.483778Z" modified="2024-08-16T23:18:37.209789Z" visited="2024-08-16T19:15:49.254410-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209784Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/BUILD/alci-calamares-config/etc/calamares/modules/unpackfs.conf" added="2024-08-16T23:15:51.461542Z" modified="2024-08-16T23:18:37.209854Z" visited="2024-08-16T19:15:49.140603-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-16T23:18:37.209851Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/settings.conf" added="2024-08-17T00:47:31.460671Z" modified="2024-08-17T00:48:01.709391Z" visited="2024-08-16T20:47:28.679069-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:48:01.709390Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/bootloader.conf" added="2024-08-17T00:48:01.460807Z" modified="2024-08-20T23:13:57.502330Z" visited="2024-08-20T19:13:43.060484-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502329Z" count="94"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/finished.conf" added="2024-08-17T00:48:06.460740Z" modified="2024-08-17T00:58:33.022906Z" visited="2024-08-16T20:48:03.859129-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:58:33.022905Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/unpackfs.conf" added="2024-08-17T00:48:19.461697Z" modified="2024-08-20T23:13:57.502300Z" visited="2024-08-20T19:13:43.195445-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502298Z" count="86"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/shellprocess-before.conf" added="2024-08-17T00:49:27.460883Z" modified="2024-08-17T00:58:33.022936Z" visited="2024-08-16T20:49:24.598574-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:58:33.022935Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/shellprocess-final.conf" added="2024-08-17T00:49:32.460317Z" modified="2024-08-20T23:13:57.502322Z" visited="2024-08-20T19:13:43.196088-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502321Z" count="71"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/mkinitcpio.conf.d/archiso.conf" added="2024-08-17T00:53:46.460213Z" modified="2024-08-17T00:58:33.022914Z" visited="2024-08-16T20:53:43.188869-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:58:33.022914Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/preservefiles.conf" added="2024-08-17T00:57:58.462423Z" modified="2024-08-17T00:58:33.022949Z" visited="2024-08-16T20:57:55.530824-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:58:33.022948Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/partition.conf" added="2024-08-17T00:58:17.461362Z" modified="2024-08-17T00:58:33.022939Z" visited="2024-08-16T20:58:13.886168-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:58:33.022938Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/locale.conf" added="2024-08-17T00:58:27.460682Z" modified="2024-08-20T23:13:57.502314Z" visited="2024-08-20T19:13:43.001962-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502313Z" count="77"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/grubcfg.conf" added="2024-08-17T00:58:33.022897Z" modified="2024-08-20T23:13:57.502278Z" visited="2024-08-20T19:13:43.059979-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502275Z" count="76"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/mount.conf" added="2024-08-17T00:58:39.462433Z" modified="2024-08-17T00:58:49.225073Z" visited="2024-08-16T20:58:37.154116-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:58:49.225073Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/packages.conf" added="2024-08-17T00:58:53.463565Z" modified="2024-08-17T00:59:04.490055Z" visited="2024-08-16T20:58:51.190094-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T00:59:04.490055Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/ncos-00/releng/airootfs/etc/calamares/modules/displaymanager.conf" added="2024-08-17T02:20:35.522275Z" modified="2024-08-20T23:13:57.502288Z" visited="2024-08-20T19:13:43.196802-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502287Z" count="66"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/refs/heads/main" added="2024-08-17T13:43:33.455744Z" modified="2024-08-17T13:43:42.621349Z" visited="2024-08-17T09:43:31.271488-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T13:43:42.621348Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/description" added="2024-08-17T13:43:42.621357Z" modified="2024-08-20T23:13:57.502310Z" visited="2024-08-20T19:13:43.173680-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502309Z" count="54"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/config" added="2024-08-17T13:43:47.458942Z" modified="2024-08-20T23:13:57.502284Z" visited="2024-08-20T19:13:43.194668-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502283Z" count="53"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/.git/info/exclude" added="2024-08-17T14:09:48.459172Z" modified="2024-08-17T15:23:09.463870Z" visited="2024-08-17T10:09:45.532764-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-17T15:23:09.463869Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ncos/iso/github/NCOS/ncos/releng/packages.x86_64" added="2024-08-17T17:58:21.458786Z" modified="2024-08-20T23:13:57.502303Z" visited="2024-08-20T19:13:43.197604-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502302Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/default/grub" added="2024-08-20T23:11:58.467591Z" modified="2024-08-20T23:13:57.502296Z" visited="2024-08-20T19:13:43.279791-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502295Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/default/grub" added="2024-08-20T23:12:10.443219Z" modified="2024-08-20T23:13:57.502356Z" visited="2024-08-20T19:13:44.941846-04">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-08-20T23:13:57.502355Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

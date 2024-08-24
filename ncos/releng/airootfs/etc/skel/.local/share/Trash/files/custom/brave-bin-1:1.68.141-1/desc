@@ -1,0 +1,60 @@
+%FILENAME%
+brave-bin-1:1.68.141-1-x86_64.pkg.tar.zst
+
+%NAME%
+brave-bin
+
+%BASE%
+brave-bin
+
+%VERSION%
+1:1.68.141-1
+
+%DESC%
+Web browser that blocks ads and trackers by default (binary release)
+
+%CSIZE%
+128771839
+
+%ISIZE%
+376055775
+
+%SHA256SUM%
+1ffbf382aaa95418e20f8b4822c60b593ad23c8b96e5ca052ca8e5b4937a447b
+
+%URL%
+https://brave.com
+
+%LICENSE%
+MPL2
+BSD
+custom:chromium
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1723672278
+
+%PACKAGER%
+Unknown Packager
+
+%CONFLICTS%
+brave
+
+%PROVIDES%
+brave=1.68.141
+brave-browser
+
+%DEPENDS%
+alsa-lib
+gtk3
+libxss
+nss
+ttf-font
+
+%OPTDEPENDS%
+cups: Printer support
+libgnome-keyring: Enable GNOME keyring support
+libnotify: Native notification support
+

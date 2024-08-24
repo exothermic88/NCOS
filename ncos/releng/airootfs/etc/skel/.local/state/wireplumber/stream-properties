@@ -1,0 +1,9 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Chromium={"channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"], "volume":1.000000}
+Output/Audio:application.name:Firefox={"channelMap":["FL", "FR"], "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:archiso={"channelMap":["FL", "FR"], "volume":1.000000, "channelVolumes":[0.323202, 0.323202], "mute":false}
+Output/Audio:application.name:speech-dispatcher={"volume":1.000000, "mute":false, "channelVolumes":[1.000000], "channelMap":["MONO"]}
+Output/Audio:application.name:speech-dispatcher-dummy={"channelMap":["MONO"], "channelVolumes":[1.000000], "volume":1.000000, "mute":false}
+Output/Audio:media.role:Music={"channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000}
+Output/Audio:media.role:Notification={"mute":false, "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}

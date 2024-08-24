@@ -1,0 +1,126 @@
+(
+    config: {
+        [
+            (
+                connector: "X11-0",
+                make: "COSMIC",
+                model: "X11-0",
+            ),
+        ]: [
+            (
+                mode: ((1280, 800), None),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (0, 0),
+                enabled: true,
+            ),
+        ],
+        [
+            (
+                connector: "LVDS-1",
+                make: "Unknown",
+                model: "634",
+            ),
+            (
+                connector: "VGA-2",
+                make: "Unknown",
+                model: "Unknown",
+            ),
+        ]: [
+            (
+                mode: ((1600, 900), Some(59985)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (1024, 0),
+                enabled: true,
+            ),
+            (
+                mode: ((1024, 768), Some(60004)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (0, 0),
+                enabled: true,
+            ),
+        ],
+        [
+            (
+                connector: "LVDS-1",
+                make: "Unknown",
+                model: "634",
+            ),
+            (
+                connector: "VGA-1",
+                make: "Unknown",
+                model: "Unknown",
+            ),
+        ]: [
+            (
+                mode: ((1600, 900), Some(59985)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (0, 0),
+                enabled: true,
+            ),
+            (
+                mode: ((1024, 768), Some(60004)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (1600, 0),
+                enabled: true,
+            ),
+        ],
+        [
+            (
+                connector: "VGA-1",
+                make: "Unknown",
+                model: "Unknown",
+            ),
+        ]: [
+            (
+                mode: ((1024, 768), Some(60004)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (0, 0),
+                enabled: true,
+            ),
+        ],
+        [
+            (
+                connector: "LVDS-1",
+                make: "Unknown",
+                model: "634",
+            ),
+        ]: [
+            (
+                mode: ((1600, 900), Some(59985)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (0, 0),
+                enabled: true,
+            ),
+        ],
+        [
+            (
+                connector: "VGA-2",
+                make: "Unknown",
+                model: "Unknown",
+            ),
+        ]: [
+            (
+                mode: ((1024, 768), Some(60004)),
+                vrr: false,
+                scale: 1.0,
+                transform: Normal,
+                position: (0, 0),
+                enabled: true,
+            ),
+        ],
+    },
+)

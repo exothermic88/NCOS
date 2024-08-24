@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="virtualbox.desktop" score="176" last-seen="1723937423"/>
+    <application id="org.gnome.Nautilus.desktop" score="1830" last-seen="1724118212"/>
+    <application id="org.gnome.Settings.desktop" score="18" last-seen="1723863912"/>
+    <application id="firefox.desktop" score="1316" last-seen="1723937607"/>
+    <application id="org.gnome.Console.desktop" score="6752" last-seen="1724118072"/>
+    <application id="org.gnome.Loupe.desktop" score="3" last-seen="1723849329"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1723847499"/>
+    <application id="org.gnome.baobab.desktop" score="0" last-seen="1723726818"/>
+    <application id="org.gnome.Software.desktop" score="0" last-seen="1723604221"/>
+    <application id="org.gnome.clocks.desktop" score="0" last-seen="1723728458"/>
+    <application id="discord.desktop" score="443" last-seen="1723913026"/>
+    <application id="org.gnome.TextEditor.desktop" score="981" last-seen="1723917502"/>
+    <application id="com.system76.CosmicEdit.desktop" score="37" last-seen="1724118217"/>
+  </context>
+</application-state>
