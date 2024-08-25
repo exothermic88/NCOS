@@ -1,6 +1,6 @@
 [
     "firefox",
-    "com.system76.CosmicFiles",
+    "org.gnome.Nautilus",
     "org.gnome.Console",
     "code-oss",
     "discord",

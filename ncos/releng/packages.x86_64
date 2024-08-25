@@ -148,12 +148,11 @@ xf86-video-intel
 xf86-video-amdgpu
 xf86-video-nouveau
 
-gdm
+sddm
 gnome
 cosmic-session
 cosmic-files
 cosmic-terminal
-cosmic-text-editor
 cosmic-wallpapers
 papirus-icon-theme
 
@@ -166,8 +165,9 @@ code
 discord
 spotify-launcher
 neovim
+sublime-text-4
 
-
+qt6
 
 ############################################################################
 # Custom packages from local/repo
