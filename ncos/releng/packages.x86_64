@@ -152,7 +152,6 @@ xf86-video-nouveau
 sddm
 gnome
 cosmic-session
-cosmic-files
 cosmic-terminal
 cosmic-wallpapers
 papirus-icon-theme

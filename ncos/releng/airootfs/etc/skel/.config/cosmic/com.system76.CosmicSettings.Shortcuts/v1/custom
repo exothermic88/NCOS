@@ -1,1 +1,31 @@
-{}
+{
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "c",
+        description: Some("vscode"),
+    ): Spawn("code"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+        description: Some("sublime"),
+    ): Spawn("subl"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "s",
+        description: Some("spotify"),
+    ): Spawn("spotify-launcher"),
+}
