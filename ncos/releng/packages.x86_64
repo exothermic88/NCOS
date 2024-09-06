@@ -141,6 +141,7 @@ pipewire
 networkmanager
 bluez
 bluez-utils
+htop
 
 mesa
 xorg-server
