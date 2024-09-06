@@ -1,0 +1,11 @@
+[Default Applications]
+text/plain=sublime_text.desktop
+text/html=brave-browser.desktop
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+
+[Added Associations]
+text/plain=nvim.desktop;org.gnome.TextEditor.desktop;code-oss.desktop;sublime_text.desktop;
+application/x-shellscript=org.gnome.TextEditor.desktop;
