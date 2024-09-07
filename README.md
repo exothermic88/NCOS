@@ -36,7 +36,4 @@ __[Arch Linux Installation Guide](https://github.com/rickellis/Arch-Linux-Instal
 
 #5: Find your network, and run `station [device name] connect [network name]`, enter your password and run `exit`. You can test if you have internet connection by running `ping google.ca`. 
 
-## Credits
-
-- Original packages script was a post install cleanup script called ArchMatic located here: https://github.com/rickellis/ArchMatic
 
