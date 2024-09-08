@@ -5,9 +5,8 @@
 ## Features
 
 - **Arch Linux Base**: Built on Arch Linux, NCOS provides a highly customizable and rolling-release environment.
-- **Cosmic Desktop**: NCOS runs the Cosmic desktop environment, offering a blend of simplicity and functionality with modern UI elements.
+- **Cosmic Desktop**: NCOS runs the Cosmic desktop environment, offering simplicity and functionality with modern UI elements.
 - **Lightweight and Fast**: Optimized for performance, NCOS is designed to be fast and efficient, suitable for both low-end and high-end hardware.
-- **Rolling Release**: With Arch Linux's rolling release model, NCOS ensures you have the latest software and security updates.
 - **Customizability**: Extensive options for customization, allowing you to tailor the desktop environment to your liking.
 
 ## Installation
