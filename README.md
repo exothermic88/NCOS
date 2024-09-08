@@ -1,39 +1,40 @@
-# NC_OS Installer Script
+# NCOS
 
----
-## Create Arch ISO or Use Image
+**NCOS** is an Arch Linux-based operating system designed to offer a smooth, modern, and customizable user experience. It leverages the powerful and minimalistic foundation of Arch Linux, combined with the sleek and efficient **Cosmic** desktop environment.
 
-Download ArchISO from <https://archlinux.org/download/> and put on a USB drive with Ventoy,Etcher or rofus
+## Features
 
-## Boot Arch ISO
+- **Arch Linux Base**: Built on Arch Linux, NCOS provides a highly customizable and rolling-release environment.
+- **Cosmic Desktop**: NCOS runs the Cosmic desktop environment, offering a blend of simplicity and functionality with modern UI elements.
+- **Lightweight and Fast**: Optimized for performance, NCOS is designed to be fast and efficient, suitable for both low-end and high-end hardware.
+- **Rolling Release**: With Arch Linux's rolling release model, NCOS ensures you have the latest software and security updates.
+- **Customizability**: Extensive options for customization, allowing you to tailor the desktop environment to your liking.
 
-From initial Prompt type the following commands:
+## Installation
 
-```
-pacman -Sy git
-git clone https://github.com/exothermic88/NCOS
-cd NCOS
-chmod +x ./ncos.sh
-./ncos.sh
-```
+To install NCOS, follow these steps:
 
-### System Description
-This is completely automated arch install of the KDE desktop environment on arch using all the packages I would use on a daily basis. 
+1. Download the latest NCOS ISO from the [Releases](#) page.
+2. Create a bootable USB drive using tools like `Rufus` or `Etcher`.
+3. Boot from the USB drive and follow the installation prompts.
+4. After installation, log in to experience NCOS.
 
-## Troubleshooting
+## Getting Started
 
-__[Arch Linux Installation Guide](https://github.com/rickellis/Arch-Linux-Install-Guide)__
+Once installed, you can start exploring the Cosmic desktop environment. NCOS comes with a minimal set of pre-installed applications, allowing you to customize your system from the ground up.
 
-### No Wifi
+### Documentation
 
-#1: Run `iwctl`
+For detailed instructions and tips on using NCOS, check out our [Wiki](#).
 
-#2: Run `device list`, and find your device name.
+### Contributing
 
-#3: Run `station [device name] scan`
+We welcome contributions! Please see our [Contributing Guide](#) for more details.
 
-#4: Run `station [device name] get-networks`
+## Support
 
-#5: Find your network, and run `station [device name] connect [network name]`, enter your password and run `exit`. You can test if you have internet connection by running `ping google.ca`. 
+If you encounter any issues or have questions, feel free to open an issue on GitHub or join our [community forum](#).
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
