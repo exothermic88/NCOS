@@ -1,6 +1,6 @@
 # NCOS
 
-**NCOS** is an Arch Linux-based operating system designed to offer a smooth, modern, and customizable user experience. It leverages the powerful and minimalistic foundation of Arch Linux, combined with the sleek and efficient **Cosmic** desktop environment.
+**NCOS** is an Arch Linux-based operating system featuring the **Cosmic** desktop environment designed to offer a smooth, modern, and customizable user experience.
 
 ## Features
 
