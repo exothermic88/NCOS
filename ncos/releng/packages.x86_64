@@ -164,8 +164,7 @@ fastfetch
 code
 discord
 spotify-launcher
-neovim
-sublime-text-4
+vlc
 
 qt6
 
@@ -177,4 +176,5 @@ paru
 ############################################################################
 # Packages from ALCI-repo
 alci-calamares
+sublime-text-4
 
