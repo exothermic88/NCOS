@@ -31,6 +31,16 @@ sudo rm /etc/mkinitcpio.d/linux.preset
 sudo cp /etc/mkinitcpio_NCOS/linux.preset /etc/mkinitcpio.d/
 ```
 
+### 1. Update Grub Theme (Optional)
+
+To apply the custom NCOS bootloader theme, run the following commands:
+
+```bash
+cd /etc/grub2-themes
+sudo chmod +x install.sh
+sudo ./install.sh -b -t vimix
+```
+
 ## Getting Started
 
 Once installed, you can start exploring the Cosmic desktop environment. NCOS comes with a minimal set of pre-installed applications, allowing you to customize your system from the ground up.
