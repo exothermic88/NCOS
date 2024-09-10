@@ -18,6 +18,17 @@ To install NCOS, follow these steps:
 3. Boot from the USB drive and follow the installation prompts.
 4. After installation, log in to experience NCOS.
 
+## Post-Installation Steps
+
+After installing NCOS, follow these steps to complete the setup:
+
+### 1. Update `mkinitcpio` configuration
+
+To update the `mkinitcpio` configuration, run the following commands:
+
+`sudo rm /etc/mkinitcpio.d/linux.preset`
+`sudo cp /etc/mkinitcpio_NCOS/linux.preset /etc/mkinitcpio.d/`
+
 ## Getting Started
 
 Once installed, you can start exploring the Cosmic desktop environment. NCOS comes with a minimal set of pre-installed applications, allowing you to customize your system from the ground up.
