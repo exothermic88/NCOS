@@ -31,7 +31,7 @@ sudo rm /etc/mkinitcpio.d/linux.preset
 sudo cp /etc/mkinitcpio_NCOS/linux.preset /etc/mkinitcpio.d/
 ```
 
-### 1. Update Grub Theme (Optional)
+### 2. Update Grub Theme (Optional)
 
 To apply the custom NCOS bootloader theme, run the following commands:
 
