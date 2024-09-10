@@ -22,12 +22,14 @@ To install NCOS, follow these steps:
 
 After installing NCOS, follow these steps to complete the setup:
 
-### 1. Update `mkinitcpio` configuration
+### 1. Update mkinitcpio configuration
 
-To update the `mkinitcpio` configuration, run the following commands:
+To update the mkinitcpio configuration, run the following commands:
 
-`sudo rm /etc/mkinitcpio.d/linux.preset`
-`sudo cp /etc/mkinitcpio_NCOS/linux.preset /etc/mkinitcpio.d/`
+```bash
+sudo rm /etc/mkinitcpio.d/linux.preset
+sudo cp /etc/mkinitcpio_NCOS/linux.preset /etc/mkinitcpio.d/
+```
 
 ## Getting Started
 
