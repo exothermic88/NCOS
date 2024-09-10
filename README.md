@@ -49,9 +49,12 @@ Once installed, you can start exploring the Cosmic desktop environment. NCOS com
 
 For detailed instructions and tips on using NCOS, check out our [Wiki](#).
 
-### Contributing
 
-We welcome contributions! Please see our [Contributing Guide](#) for more details.
+
+
+
+
+
 
 ## Support
 
