@@ -16,7 +16,7 @@ To install NCOS, follow these steps:
 1. [Download](https://drive.google.com/file/d/1Exl-L10pOuGDt7YbpM-e4YPTnlcOB5yq/view?usp=sharing) the latest NCOS ISO.
 2. Create a bootable USB drive using tools like `Etcher` or `Rufus`.
 3. Boot from the USB drive and follow the installation prompts.
-4. After installation, log in to experience NCOS.
+4. After installation, log into NCOS and begin following the `Post-Installation Steps`.
 
 ## Post-Installation Steps
 
@@ -32,20 +32,15 @@ cd .config/ncos/
 sudo chmod +x ncos-setup.sh
 ./ncos-setup.sh
 ```
+3. Reboot the system
 
 ## Getting Started
 
-Once installed, you can start exploring the Cosmic desktop environment. NCOS comes with a minimal set of pre-installed applications, allowing you to customize your system from the ground up.
+Once installed, you can start exploring the Cosmic desktop environment. NCOS comes with a minimal set of pre-installed applications, allowing you to customize your system the way you want.
 
 ### Documentation
 
 For detailed instructions and tips on using NCOS, check out our [Wiki](#).
-
-
-
-
-
-
 
 
 ## Support
