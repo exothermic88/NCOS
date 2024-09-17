@@ -32,7 +32,9 @@ cd .config/ncos/
 sudo chmod +x ncos-setup.sh
 ./ncos-setup.sh
 ```
-3. Reboot the system
+3. Follow the setup prompts
+
+4. Reboot the system
 
 ## Getting Started
 
