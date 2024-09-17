@@ -22,23 +22,15 @@ To install NCOS, follow these steps:
 
 After installing NCOS, follow these steps to complete the setup:
 
-### 1. Update mkinitcpio configuration
+### Run Post-Install Setup Script
 
-To update the mkinitcpio configuration, run the following commands:
+1. Open a terminal with `Super + t`
 
+2. Run the following commands:
 ```bash
-sudo rm /etc/mkinitcpio.d/linux.preset
-sudo cp /etc/mkinitcpio_NCOS/linux.preset /etc/mkinitcpio.d/
-```
-
-### 2. Update Grub Theme (Optional)
-
-To apply the custom NCOS bootloader theme, run the following commands:
-
-```bash
-cd /etc/grub2-themes
-sudo chmod +x install.sh
-sudo ./install.sh -b -t vimix
+cd .config/ncos/
+sudo chmod +x ncos-setup.sh
+./ncos-setup.sh
 ```
 
 ## Getting Started
