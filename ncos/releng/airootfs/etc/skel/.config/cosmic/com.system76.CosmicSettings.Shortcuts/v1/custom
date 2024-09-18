@@ -17,9 +17,8 @@
         modifiers: [
             Super,
         ],
-        key: "d",
-        description: Some("discord"),
-    ): Spawn("discord"),
+        key: "minus",
+    ): Minimize,
     (
         modifiers: [
             Super,
@@ -28,4 +27,18 @@
         key: "s",
         description: Some("spotify"),
     ): Spawn("spotify-launcher"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "semicolon",
+        description: Some("settings"),
+    ): Spawn("cosmic-settings"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
 }

@@ -1,6 +1,6 @@
 (
     output: "all",
-    source: Path("/etc/wallpapers/heading_dark.png"),
+    source: Path("/etc/wallpapers/NCOS_nordic3.png"),
     filter_by_theme: true,
     rotation_frequency: 300,
     filter_method: Lanczos,
