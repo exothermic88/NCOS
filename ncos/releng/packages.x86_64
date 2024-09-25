@@ -143,7 +143,10 @@ network-manager-applet
 bluez
 bluez-utils
 blueman
+ffmpeg
 htop
+bpytop
+plymouth
 
 mesa
 xorg-server
@@ -159,6 +162,7 @@ sddm
 gnome
 cosmic-session
 cosmic-terminal
+kitty
 cosmic-wallpapers
 power-profiles-daemon
 papirus-icon-theme
@@ -166,15 +170,23 @@ papirus-icon-theme
 fish
 starship
 eza
+bat
+fzf
+thefuck
+tgpt
+tldr
+
 
 fastfetch
 code
 discord
 spotify-launcher
 vlc
+obsidian
 
 qt6
 
+ttf-firacode-nerd
 ############################################################################
 # Custom packages from local/repo
 brave-bin

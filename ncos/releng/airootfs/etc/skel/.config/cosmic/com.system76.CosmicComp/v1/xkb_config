@@ -1,9 +1,9 @@
 (
     rules: "",
-    model: "pc105+inet",
+    model: "",
     layout: "us",
     variant: "",
-    options: Some("terminate:ctrl_alt_bksp"),
+    options: None,
     repeat_delay: 600,
     repeat_rate: 25,
 )

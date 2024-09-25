@@ -3,9 +3,9 @@
         modifiers: [
             Super,
         ],
-        key: "c",
-        description: Some("vscode"),
-    ): Spawn("code"),
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
     (
         modifiers: [
             Super,
@@ -17,8 +17,29 @@
         modifiers: [
             Super,
         ],
+        key: "f",
+        description: Some("files"),
+    ): Spawn("nautilus --new-window"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "c",
+        description: Some("vscode"),
+    ): Spawn("code"),
+    (
+        modifiers: [
+            Super,
+        ],
         key: "minus",
     ): Minimize,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+        description: Some("terminal"),
+    ): Spawn("kitty"),
     (
         modifiers: [
             Super,
@@ -37,8 +58,18 @@
     (
         modifiers: [
             Super,
+            Shift,
         ],
-        key: "d",
-        description: Some("discord"),
-    ): Spawn("discord"),
+        key: "o",
+        description: Some("obsidian"),
+    ): Spawn("obsidian"),
+    (
+        modifiers: [
+            Super,
+            Ctrl,
+            Alt,
+        ],
+        key: "s",
+        description: Some("suspend"),
+    ): Spawn("systemctl suspend"),
 }
