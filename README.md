@@ -13,7 +13,7 @@
 
 To install NCOS, follow these steps:
 
-1. [Download](https://drive.google.com/file/d/1Exl-L10pOuGDt7YbpM-e4YPTnlcOB5yq/view?usp=sharing) the latest NCOS ISO.
+1. [Download](https://drive.google.com/file/d/1RRfabf39XmMBy-XwTot0KzZ_2atPnyhk/view?usp=sharing) the latest NCOS ISO.
 2. Create a bootable USB drive using tools like `Etcher` or `Rufus`.
 3. Boot from the USB drive and follow the installation prompts.
 4. After installation, log into NCOS and begin following the `Post-Installation Steps`.
@@ -28,7 +28,7 @@ After installing NCOS, follow these steps to complete the setup:
 2. Open a terminal with `Super + t`.
 3. Run the following commands:
 ```bash
-cd .config/ncos/
+cd /etc/NCOS/
 sudo chmod +x ncos-setup.sh
 ./ncos-setup.sh
 ```
