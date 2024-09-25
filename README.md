@@ -28,7 +28,7 @@ After installing NCOS, follow these steps to complete the setup:
 2. Open a terminal with `Super + t`.
 3. Run the following commands:
 ```bash
-cd .config/ncos/
+cd /etc/NCOS/
 sudo chmod +x ncos-setup.sh
 ./ncos-setup.sh
 ```
