@@ -25,15 +25,12 @@ After installing NCOS, follow these steps to complete the setup:
 ### Run Post-Install Setup Script
 
 1. Connect to a wifi network.
-2. Open a terminal with `Super + t`.
-3. Run the following commands:
+2. Open a terminal with `Super + t` and run the following command:
 ```bash
-cd /etc/NCOS/
-sudo chmod +x ncos-setup.sh
-./ncos-setup.sh
+ncos-setup
 ```
-4. Follow the setup prompts
-5. Reboot the system
+3. Follow the setup prompts (if unsure about what to select, just select the default option).
+4. Reboot the system
 
 ## Getting Started
 
