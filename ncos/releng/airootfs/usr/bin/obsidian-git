@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Set the path to your Obsidian vault
+VAULT_PATH="$HOME/obsidian/nics-vault"
+
+# Go to the vault's Git repository directory
+cd "$VAULT_PATH" || exit
+
+# Pull the latest changes from the remote repository
+echo "Pulling latest changes..."
+git pull origin main 
+
+# Open Obsidian
+echo "Opening Obsidian..."
+obsidian &
+
+# Get the process ID of Obsidian
+OBSIDIAN_PID=$!
+
+# Wait for Obsidian to close
+wait $OBSIDIAN_PID
+
+# After Obsidian closes, push the changes to the remote repository
+echo "Pushing changes..."
+git add .
+git commit -m "Auto-commit: Updated vault after editing"
+git push origin main
+
+echo "Operation complete."

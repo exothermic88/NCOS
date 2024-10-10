@@ -1,0 +1,79 @@
+#!/bin/bash
+
+# Clear the screen
+sudo clear
+
+# Welcome message
+dialog --msgbox "Welcome to the NCOS ALPHA." 10 40
+
+# Prompt to ask if user wants to run the setup script
+if ! dialog --yesno "Would you like to run the post-installation process now?" 10 50; then
+    exit
+fi
+
+# Optimizing the system
+dialog --infobox "Optimizing your system..." 5 40
+sleep 1
+
+# Visual Studio Code replacement prompt
+if dialog --yesno "Would you like to replace the current version of Visual Studio Code (open-source) with the Microsoft version?" 10 50; then
+    dialog --infobox "Replacing CODE OSS with Visual Studio Code..." 5 40
+    sleep 1
+
+    # Update package databases
+    { sudo pacman -Sy; } 2>&1 | dialog --progressbox "Updating package databases..." 20 70
+
+    # Remove Code OSS
+    { sudo pacman -R --noconfirm code; } 2>&1 | dialog --progressbox "Removing Code OSS..." 20 70
+
+    # Install Visual Studio Code
+    { yay -S visual-studio-code-bin --noconfirm; } 2>&1 | dialog --progressbox "Installing Visual Studio Code..." 20 70
+else
+    dialog --infobox "Keeping current version of Code OSS..." 5 40
+    sleep 1
+fi
+
+# Bootloader theme
+dialog --infobox "Applying bootloader theme..." 5 40
+sleep 1
+{ sudo cp /etc/NCOS/grub /etc/default/; } 2>&1 | dialog --progressbox "Copying grub configuration..." 20 70
+
+cd /etc/NCOS/grub2-themes || { dialog --msgbox "Failed to change directory." 10 50; exit 1; }
+{ sudo chmod +x install.sh; } 2>&1 | dialog --progressbox "Changing permissions..." 20 70
+{ sudo ./install.sh -b -t vimix; } 2>&1 | dialog --progressbox "Installing bootloader theme..." 20 70
+
+# mkinitcpio configuration
+dialog --infobox "Configuring mkinitcpio..." 5 40
+sleep 1
+{ sudo cp /etc/NCOS/linux.preset /etc/mkinitcpio.d/; } 2>&1 | dialog --progressbox "Copying linux.preset..." 20 70
+{ sudo cp /etc/NCOS/mkinitcpio.conf /etc/; } 2>&1 | dialog --progressbox "Copying mkinitcpio.conf..." 20 70
+
+# Plymouth configuration
+dialog --infobox "Configuring plymouth..." 5 40
+sleep 1
+{ sudo cp -r /etc/NCOS/monoarch /usr/share/plymouth/themes/; } 2>&1 | dialog --progressbox "Copying plymouth theme..." 20 70
+{ sudo plymouth-set-default-theme -R monoarch; } 2>&1 | dialog --progressbox "Setting default plymouth configuration..." 20 70
+
+# Package cleanup and system update
+dialog --infobox "Cleaning packages and updating system..." 5 40
+sleep 1
+{ sudo pacman -R --noconfirm gdm gnome-color-manager gnome-connections gnome-control-center gnome-maps gnome-software epiphany gnome-music malcontent totem gnome-shell-extensions gnome-shell; } 2>&1 | dialog --progressbox "Removing unnecessary packages..." 20 70
+{ sudo pacman -Syu --noconfirm; } 2>&1 | dialog --progressbox "Updating system packages..." 20 70
+{ yay -Syu --aur --noconfirm; } 2>&1 | dialog --progressbox "Updating AUR packages..." 20 70
+
+# Reboot prompt
+if dialog --yesno "Setup complete. Would you like to reboot your device (recommended)?" 10 50; then
+    (
+    # Countdown for 5 seconds
+    for i in {5..1}; do
+        dialog --infobox "Rebooting in $i seconds..." 5 40
+        sleep 1
+    done
+    )
+    sudo rm /usr/bin/ncos-setup
+    sudo reboot
+else
+    sudo rm /usr/bin/ncos-setup
+    dialog --msgbox "NCOS post-installation setup completed." 10 40
+fi
+exit

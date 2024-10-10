@@ -1,0 +1,81 @@
+[Map]
+author=Example Author
+image=example.bmp
+wrap=no
+scroll=horizontal
+warn=yes
+
+[Continents]
+Mexico=2
+Northwest U.S.=3
+Southwest U.S.=4
+Canada=5
+Southeast U.S.=6
+Northeast U.S.=7
+Midwest U.S.=8
+
+[Territories]
+Baja California,105,385,Mexico,California,Western Mexico
+Western Mexico,175,385,Mexico,Baja California,Arizona,New Mexico,Texas,Eastern Mexico
+Eastern Mexico,275,425,Mexico,Western Mexico,Texas
+
+Washington,80,50,Northwest U.S.,British Columbia,Idaho,Oregon
+Oregon,65,105,Northwest U.S.,Washington,Idaho,Nevada,California
+Idaho,135,125,Northwest U.S.,British Columbia,Montana,Wyoming,Utah,Nevada,Oregon,Washington
+Montana,200,80,Northwest U.S.,British Columbia,Alberta,Saskatchewan,North Dakota,South Dakota,Wyoming,Idaho
+Wyoming,215,150,Northwest U.S.,Montana,South Dakota,Nebraska,Colorado,Utah,Idaho
+
+California,50,220,Southwest U.S.,Oregon,Nevada,Arizona,Baja California
+Nevada,95,190,Southwest U.S.,Oregon,Idaho,Utah,Arizona,California
+Utah,160,200,Southwest U.S.,Idaho,Wyoming,Colorado,Arizona,Nevada
+Colorado,235,225,Southwest U.S.,Wyoming,Nebraska,Kansas,Oklahoma,New Mexico,Utah
+Arizona,145,285,Southwest U.S.,California,Nevada,Utah,New Mexico,Western Mexico
+New Mexico,220,290,Southwest U.S.,Colorado,Oklahoma,Texas,Western Mexico,Arizona
+
+British Columbia,100,15,Canada,Alberta,Montana,Idaho,Washington
+Alberta,175,25,Canada,Saskatchewan,Montana,British Columbia
+Saskatchewan,250,25,Canada,Manitoba,North Dakota,Montana,Alberta
+Manitoba,330,35,Canada,Ontario,Minnisota,North Dakota,Saskatchewan
+Ontario,450,35,Canada,Quebec,New York,Ohio,Michigan,Minnisota,Manitoba
+Quebec,585,45,Canada,New Brunswick,Maine,New Hampshire,Vermont,New York,Ontario
+New Brunswick,685,45,Canada,Maine,Quebec
+
+Kentucky,495,235,Southeast U.S.,Illinois,Indiana,Ohio,West Virginia,Virginia,Tennessee,Missouri
+West Virginia,545,215,Southeast U.S.,Ohio,Pennsylvania,Maryland,Virginia,Kentucky
+Maryland,595,190,Southeast U.S.,Pennsylvania,Delaware,Virginia,West Virginia
+Delaware,615,200,Southeast U.S.,Pennsylvania,New Jersey,Maryland
+Virginia,580,220,Southeast U.S.,Maryland,North Carolina,Tennessee,Kentucky,West Virginia
+Tennessee,480,270,Southeast U.S.,Kentucky,Virginia,North Carolina,Georgia,Alabama,Mississippi,Arkansas,Missouri
+North Carolina,580,260,Southeast U.S.,Virginia,South Carolina,Georgia,Tennessee
+Mississippi,445,325,Southeast U.S.,Tennessee,Alabama,Louisiana,Arkansas
+Alabama,485,320,Southeast U.S.,Tennessee,Georgia,Florida,Mississippi
+Georgia,530,315,Southeast U.S.,Tennessee,North Carolina,South Carolina,Florida,Alabama
+South Carolina,560,290,Southeast U.S.,North Carolina,Georgia
+Florida,560,380,Southeast U.S.,Alabama,Georgia
+
+Wisconsin,425,130,Northeast U.S.,Michigan,Illinois,Iowa,Minnisota
+Michigan,485,135,Northeast U.S.,Ontario,Ohio,Indiana,Wisconsin,Minnisota
+Illinois,435,200,Northeast U.S.,Wisconsin,Indiana,Kentucky,Missouri,Iowa
+Indiana,475,200,Northeast U.S.,Michigan,Ohio,Kentucky,Illinois
+Ohio,520,190,Northeast U.S.,Michigan,Ontario,Pennsylvania,West Virginia,Kentucky,Indiana
+Pennsylvania,575,170,Northeast U.S.,New York,New Jersey,Delaware,Maryland,West Virginia,Ohio
+New Jersey,620,175,Northeast U.S.,New York,Delaware,Pennsylvania
+New York,600,130,Northeast U.S.,Quebec,Vermont,Massachusetts,Connecticut,New Jersey,Pennsylvania,Ontario
+Connecticut,635,140,Northeast U.S.,Massachusetts,Rhode Island,New York
+Rhode Island,650,140,Northeast U.S.,Massachusetts,Connecticut
+Massachusetts,645,130,Northeast U.S.,Vermont,New Hampshire,Rhode Island,Connecticut,New York
+Vermont,625,100,Northeast U.S.,Quebec,New Hampshire,Massachusetts,New York
+New Hampshire,640,110,Northeast U.S.,Quebec,Maine,Massachusetts,Vermont
+Maine,660,70,Northeast U.S.,Quebec,New Brunswick,New Hampshire
+
+North Dakota,305,85,Midwest U.S.,Saskatchewan,Manitoba,Minnisota,South Dakota,Montana
+South Dakota,305,130,Midwest U.S.,North Dakota,Minnisota,Iowa,Nebraska,Wyoming,Montana
+Nebraska,305,180,Midwest U.S.,South Dakota,Iowa,Missouri,Kansas,Colorado,Wyoming
+Kansas,320,230,Midwest U.S.,Nebraska,Missouri,Oklahoma,Colorado
+Oklahoma,340,280,Midwest U.S.,Kansas,Missouri,Arkansas,Texas,New Mexico,Colorado
+Texas,305,350,Midwest U.S.,Oklahoma,Arkansas,Louisiana,Eastern Mexico,Western Mexico,New Mexico
+Minnisota,370,105,Midwest U.S.,Ontario,Michigan,Wisconsin,Iowa,South Dakota,North Dakota,Manitoba
+Iowa,385,170,Midwest U.S.,Minnisota,Wisconsin,Illinois,Missouri,Nebraska,South Dakota
+Missouri,395,230,Midwest U.S.,Iowa,Illinois,Kentucky,Tennessee,Arkansas,Oklahoma,Kansas,Nebraska
+Arkansas,405,290,Midwest U.S.,Missouri,Tennessee,Mississippi,Louisiana,Texas,Oklahoma
+Louisiana,405,350,Midwest U.S.,Arkansas,Mississippi,Texas

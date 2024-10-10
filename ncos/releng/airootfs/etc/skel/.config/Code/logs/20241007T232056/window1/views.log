@@ -1,0 +1,13 @@
+2024-10-07 23:20:58.002 [info] Added views:outline in workbench.view.explorer
+2024-10-07 23:20:58.002 [info] Added views:workbench.view.search in workbench.view.search
+2024-10-07 23:20:58.002 [info] Added views:workbench.scm in workbench.view.scm
+2024-10-07 23:20:58.002 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2024-10-07 23:20:58.002 [info] Added views:workbench.panel.output in workbench.panel.output
+2024-10-07 23:20:58.002 [info] Added views:terminal in terminal
+2024-10-07 23:20:58.002 [info] Added views:timeline in workbench.view.explorer
+2024-10-07 23:20:58.002 [info] Added views:workbench.explorer.emptyView in workbench.view.explorer
+2024-10-07 23:20:58.264 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2024-10-07 23:20:59.104 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2024-10-07 23:20:59.723 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-10-07 23:21:09.230 [info] Showing view workbench.explorer.openEditorsView in the container workbench.view.explorer
+2024-10-07 23:21:09.250 [info] Added views:workbench.explorer.openEditorsView in workbench.view.explorer

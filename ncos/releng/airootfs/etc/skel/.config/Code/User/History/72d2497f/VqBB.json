@@ -1,0 +1,75 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "security.workspace.trust.untrustedFiles": "open",
+
+   // we try to make semantic highlighting look good
+  "editor.semanticHighlighting.enabled": false,
+  // prevent VSCode from modifying the terminal colors
+  "terminal.integrated.minimumContrastRatio": 1,
+  // make the window's titlebar use the workbench colors
+  "window.titleBarStyle": "custom",
+  
+  "window.autoDetectColorScheme": true,
+  "terminal.integrated.shellIntegration.enabled": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "window.menuBarVisibility": "toggle",
+  "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+"editor.tokenColorCustomizations": {
+   "[Catppuccin]": {
+      "textMateRules": [
+         {
+            "scope": "comment",
+            "settings": {
+               "foreground": "#6A9955"  // Dark+ comment color (green)
+            }
+         },
+         {
+            "scope": "string",
+            "settings": {
+               "foreground": "#CE9178"  // Dark+ string color (orange)
+            }
+         },
+         {
+            "scope": "constant.numeric",
+            "settings": {
+               "foreground": "#B5CEA8"  // Dark+ number color (light green)
+            }
+         },
+         {
+            "scope": "keyword",
+            "settings": {
+               "foreground": "#569CD6"  // Dark+ keyword color (blue)
+            }
+         },
+         {
+            "scope": "variable",
+            "settings": {
+               "foreground": "#9CDCFE"  // Dark+ variable color (light blue)
+            }
+         },
+         {
+            "scope": "entity.name.function",
+            "settings": {
+               "foreground": "#DCDCAA"  // Dark+ function name color (yellow)
+            }
+         },
+         {
+            "scope": "entity.name.type",
+            "settings": {
+               "foreground": "#4EC9B0"  // Dark+ type name color (cyan)
+            }
+         },
+         {
+            "scope": "punctuation.definition.string, punctuation.definition.variable",
+            "settings": {
+               "foreground": "#D4D4D4"  // Dark+ default punctuation color (light gray)
+            }
+         }
+      ]
+   }
+}
+
+}

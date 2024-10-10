@@ -1,0 +1,72 @@
+untitled:Untitled-1 {"typeId":""}
+// bool Map::isTerritoryInOneContinent() const {
+//     std::unordered_map<std::string, std::set<Continent*>> territoryToContinents; // Using a set to allow multiple continents
+
+//     for (Continent* continent : *continents) {
+//         const auto& territories = continent->getTerritories();
+        
+//         for (Territory* territory : territories) {
+//             std::cout << "Checking territory: " << territory->getName() << std::endl; // Debugging line
+            
+//             territoryToContinents[territory->getName()].insert(continent);
+//             std::cout << "Territory: " << territory->getName() << " added to continent: " << continent->getName() << std::endl;
+//         }
+//     }
+
+//     // Now check if any territory is mapped to multiple continents
+//     for (const auto& entry : territoryToContinents) {
+//         if (entry.second.size() > 1) {
+//             std::cout << "Territory " << entry.first << " is connected to multiple continents." << std::endl;
+//             return false; // Found a territory connected to multiple continents
+//         }
+//     }
+
+//     std::cout << "All territories belong to one continent." << std::endl;
+//     return true; 
+// }
+// bool Map::isTerritoryInOneContinent() const {
+// std::unordered_map<std::string, std::set<Continent*>> territoryToContinents; // Mapping territories to continents
+
+//     // First, map territories to their explicit continent assignments
+//     for (Continent* continent : *continents) {
+//         const auto& territories = continent->getTerritories();
+        
+//         for (Territory* territory : territories) {
+//             std::cout << "Checking territory: " << territory->getName() << std::endl;
+//             territoryToContinents[territory->getName()].insert(continent);
+//         }
+//     }
+
+//     // Now check adjacency to add continents by proximity
+//     for (Continent* continent : *continents) {
+//         const auto& territories = continent->getTerritories();
+        
+//         for (Territory* territory : territories) {
+//             const auto& adjacentTerritories = territory->getAdjacentTerritories();
+
+//             for (Territory* adjacent : adjacentTerritories) {
+//                 auto adjacentContinentIt = territoryToContinents.find(adjacent->getName());
+                
+//                 if (adjacentContinentIt != territoryToContinents.end()) {
+//                     // If an adjacent territory is in a different continent, add it to the current territory's set
+//                     if (adjacentContinentIt->second.find(continent) == adjacentContinentIt->second.end()) {
+//                         std::cout << "Adding continent for adjacency: " << adjacent->getName() << " is adjacent to " 
+//                                   << territory->getName() << " in continent " << continent->getName() << std::endl;
+//                         territoryToContinents[territory->getName()].insert(*adjacentContinentIt->second.begin());
+//                     }
+//                 }
+//             }
+//         }
+//     }
+
+//     // Now check if any territory belongs to multiple continents
+//     for (const auto& entry : territoryToContinents) {
+//         if (entry.second.size() > 1) {
+//             std::cout << "Territory " << entry.first << " is connected to multiple continents." << std::endl;
+//             return false; // Found a territory connected to multiple continents
+//         }
+//     }
+
+//     std::cout << "All territories belong to one continent." << std::endl;
+//     return true; 
+// }

@@ -1,0 +1,25 @@
+[Map]
+author=Example Author
+image=example.bmp
+wrap=no
+scroll=horizontal
+warn=yes
+
+[Continents]
+North America=5
+South America=2
+Africa=3
+
+[Territories]
+Alaska,70,126,North America
+Northwest Territory,148,127,North America
+Alberta,147,163,North America
+Quebec,253,166,North America
+Eastern United States,219,216,North America
+
+Venezuala,259,303,South America
+Argentina,263,407,South America
+
+North Africa,420,264,Africa
+Congo,475,318,Africa
+South Africa,483,371,Africa

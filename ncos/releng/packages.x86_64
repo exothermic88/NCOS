@@ -94,7 +94,6 @@ pv
 qemu-guest-agent
 refind
 reflector
-reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -162,6 +161,7 @@ sddm
 gnome
 cosmic-session
 cosmic-terminal
+cosmic-text-editor
 kitty
 cosmic-wallpapers
 power-profiles-daemon
@@ -175,7 +175,8 @@ fzf
 thefuck
 tgpt
 tldr
-
+xclip
+dialog
 
 fastfetch
 code

@@ -1,0 +1,21 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "security.workspace.trust.untrustedFiles": "open",
+
+   // we try to make semantic highlighting look good
+  "editor.semanticHighlighting.enabled": false,
+  // prevent VSCode from modifying the terminal colors
+  "terminal.integrated.minimumContrastRatio": 1,
+  // make the window's titlebar use the workbench colors
+  "window.titleBarStyle": "custom",
+  
+  "window.autoDetectColorScheme": true,
+  "terminal.integrated.shellIntegration.enabled": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "window.menuBarVisibility": "toggle",
+  "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+  "catppuccin.colorOverrides": {}
+}

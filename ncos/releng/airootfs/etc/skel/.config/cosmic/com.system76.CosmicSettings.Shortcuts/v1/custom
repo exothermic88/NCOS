@@ -3,43 +3,8 @@
         modifiers: [
             Super,
         ],
-        key: "d",
-        description: Some("discord"),
-    ): Spawn("discord"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "e",
-        description: Some("sublime"),
-    ): Spawn("subl"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "f",
-        description: Some("files"),
-    ): Spawn("nautilus --new-window"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "c",
-        description: Some("vscode"),
-    ): Spawn("code"),
-    (
-        modifiers: [
-            Super,
-        ],
         key: "minus",
     ): Minimize,
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "t",
-        description: Some("terminal"),
-    ): Spawn("kitty"),
     (
         modifiers: [
             Super,
@@ -51,10 +16,25 @@
     (
         modifiers: [
             Super,
+            Shift,
         ],
-        key: "semicolon",
-        description: Some("settings"),
-    ): Spawn("cosmic-settings"),
+        key: "bracketleft",
+        description: Some("cycle theme previous"),
+    ): Spawn("theme-select-previous.sh"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "r",
+    ): Resizing(Inwards),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
     (
         modifiers: [
             Super,
@@ -72,4 +52,47 @@
         key: "s",
         description: Some("suspend"),
     ): Spawn("systemctl suspend"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "semicolon",
+        description: Some("settings"),
+    ): Spawn("cosmic-settings"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+        description: Some("text editor"),
+    ): Spawn("cosmic-edit"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "f",
+        description: Some("files"),
+    ): Spawn("nautilus --new-window"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "c",
+        description: Some("vscode"),
+    ): Spawn("code"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "bracketright",
+        description: Some("cycle theme next"),
+    ): Spawn("theme-select.sh"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+        description: Some("terminal"),
+    ): Spawn("kitty"),
 }

@@ -1,0 +1,22 @@
+2024-10-07 23:37:19.120 [info] Extension host with pid 40979 started
+2024-10-07 23:37:19.479 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-07 23:37:19.688 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-10-07 23:37:19.702 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-07 23:37:19.763 [info] Eager extensions activated
+2024-10-07 23:37:19.777 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 23:37:19.780 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 23:37:19.803 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 23:37:31.137 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-10-07 23:37:37.471 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-07 23:37:37.492 [info] Extension host with pid 40979 exiting with code 0
+2024-10-07 23:37:38.243 [info] Extension host with pid 41097 started
+2024-10-07 23:37:38.267 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-07 23:37:38.308 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-10-07 23:37:38.314 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-07 23:37:38.376 [info] Eager extensions activated
+2024-10-07 23:37:38.378 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 23:37:38.381 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 23:37:38.406 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-10-07 23:37:40.146 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-10-07 23:37:53.983 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-07 23:37:54.004 [info] Extension host with pid 41097 exiting with code 0
