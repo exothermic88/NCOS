@@ -29,7 +29,7 @@ After installing NCOS, follow these steps to complete the setup:
 ```bash
 ncos-setup
 ```
-3. Follow the setup prompts (if unsure about what to select, just select the default option).
+3. Follow the setup prompts (if unsure about what to select, choose the default option).
 4. Reboot the system
 
 ## Getting Started
