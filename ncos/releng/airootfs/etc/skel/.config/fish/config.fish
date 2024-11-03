@@ -64,7 +64,7 @@ function gpt
      tgpt $quoted_input | tee $temp_file
 
      # Detect language and extract code, regardless of language
-     cat $temp_file | sed -n '/^```[a-zA-Z0-9]*$/,/^```$/ { /^```/! { p } }' | xclip -selection clipboard
+     cat $temp_file | sed -n '/^```[a-zA-Z0-9]*$/,/^```$/ { /^```/! { p } }' | wl-copy
 
      # Clean up temporary file
      rm $temp_file
@@ -77,7 +77,7 @@ end
 
 #python copy conversation
 function pai
-    set temp_file (mktemp); tgpt -m | tee $temp_file; cat $temp_file | sed -n '/^```python$/,/^```$/ { /^```/! { /^```python$/! p } }' | xclip -selection clipboard; rm $temp_file
+    set temp_file (mktemp); tgpt -m | tee $temp_file; cat $temp_file | sed -n '/^```python$/,/^```$/ { /^```/! { /^```python$/! p } }' | wl-copy; rm $temp_file
 end
 #####################################################################
 

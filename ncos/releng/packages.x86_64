@@ -32,7 +32,6 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -175,7 +174,7 @@ fzf
 thefuck
 tgpt
 tldr
-xclip
+wl-clipboard
 dialog
 
 fastfetch
