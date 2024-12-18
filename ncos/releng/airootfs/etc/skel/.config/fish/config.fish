@@ -48,12 +48,6 @@ end
 #TGPT FUNCTION
 
 ######################################
-#regular gpt 
-#function gpt
-#    set user_input $argv
-#    set quoted_input "\"$user_input\""
-#    tgpt $quoted_input
-#end
 
 function gpt
      set user_input $argv
@@ -72,15 +66,22 @@ end
 
 #regular gpt conversation
 function gptm
-     tgpt -m
+  tgpt -m
 end
 
-#python copy conversation
-function pai
-    set temp_file (mktemp); tgpt -m | tee $temp_file; cat $temp_file | sed -n '/^```python$/,/^```$/ { /^```/! { /^```python$/! p } }' | wl-copy; rm $temp_file
+
+function =
+    set user_input $argv
+    set quoted_input "\"$user_input\""
+    tgpt -s $quoted_input
+    #tgpt --provider openai --url "http://127.0.0.1:1234/v1/chat/completions" --model "qwen2.5-coder-1.5b-instruct" -s "$quoted_input"
 end
+
 #####################################################################
 
 thefuck --alias | source
 
 
+
+# Added by LM Studio CLI (lms)
+set -gx PATH $PATH /home/nic/.cache/lm-studio/bin

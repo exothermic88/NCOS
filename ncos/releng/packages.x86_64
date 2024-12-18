@@ -153,7 +153,6 @@ xf86-video-amdgpu
 xf86-video-nouveau
 vulkan-radeon
 
-ntfs-3g
 os-prober
 
 sddm
@@ -187,13 +186,16 @@ obsidian
 qt6
 
 ttf-firacode-nerd
+
 ############################################################################
+
 # Custom packages from local/repo
 brave-bin
 yay
-
-############################################################################
-# Packages from ALCI-repo
-alci-calamares
+ncos-calamares
 sublime-text-4
+
+
+
+
 
