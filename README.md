@@ -18,19 +18,6 @@ To install NCOS, follow these steps:
 3. Boot from the USB drive and follow the installation prompts.
 4. After installation, log into NCOS and begin following the `Post-Installation Steps`.
 
-## Post-Installation Steps
-
-After installing NCOS, follow these steps to complete the setup:
-
-### Run Post-Install Setup Script
-
-1. Connect to a wifi network.
-2. Open a terminal with `Super + t` and run the following command:
-```bash
-ncos-setup
-```
-3. Follow the setup prompts (if unsure about what to select, choose the default option).
-4. Reboot the system
 
 ## Getting Started
 
