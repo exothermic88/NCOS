@@ -137,14 +137,15 @@ firefox
 base-devel
 pipewire
 networkmanager
-network-manager-applet
 bluez
 bluez-utils
-blueman
+fuse2
+fuse3
 ffmpeg
 htop
 bpytop
 plymouth
+timeshift
 
 mesa
 xorg-server
@@ -182,6 +183,7 @@ discord
 spotify-launcher
 vlc
 obsidian
+kdeconnect
 
 qt6
 

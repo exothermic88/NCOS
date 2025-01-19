@@ -81,7 +81,3 @@ end
 
 thefuck --alias | source
 
-
-
-# Added by LM Studio CLI (lms)
-set -gx PATH $PATH /home/nic/.cache/lm-studio/bin
