@@ -25,7 +25,7 @@ Once installed, you can start exploring the Cosmic desktop environment. NCOS com
 
 ### Documentation
 
-For detailed instructions and tips on using NCOS, check out our [Wiki](#).
+For detailed instructions and tips on using NCOS, check out our [Wiki](https://exothermic88.github.io/site/home/index.html).
 
 
 ## Support
