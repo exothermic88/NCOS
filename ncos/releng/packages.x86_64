@@ -72,6 +72,7 @@ mtools
 nano
 nbd
 ndisc6
+neovim
 nfs-utils
 nilfs-utils
 nmap
@@ -116,7 +117,6 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -136,6 +136,7 @@ zsh
 firefox
 base-devel
 pipewire
+pulseaudio-alsa
 networkmanager
 bluez
 bluez-utils
@@ -153,6 +154,7 @@ xf86-video-intel
 xf86-video-amdgpu
 xf86-video-nouveau
 vulkan-radeon
+xwaylandvideobridge
 
 os-prober
 
