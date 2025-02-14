@@ -1,3 +1,0 @@
-2024-08-20 18:35:24.597 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/ncos/iso/github/NCOS/.bashrc","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
-2024-08-20 18:35:25.152 [info] Started local extension host with pid 33882.
-2024-08-20 18:35:27.965 [info] [perf] Render performance baseline is 51ms

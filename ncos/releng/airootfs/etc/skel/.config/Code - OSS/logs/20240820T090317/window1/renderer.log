@@ -1,4 +1,0 @@
-2024-08-20 09:03:18.651 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/etc/sddm.conf.d/default.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-08-20 09:03:19.159 [info] Started local extension host with pid 10575.
-2024-08-20 09:03:22.064 [info] [perf] Render performance baseline is 40ms
-2024-08-20 09:03:54.746 [error] [text file model] handleSaveError(5) - exit - resulted in a save error: Error: Unable to write file '/etc/sddm.conf.d/default.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/sddm.conf.d/default.conf') file:///etc/sddm.conf.d/default.conf

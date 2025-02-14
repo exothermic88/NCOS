@@ -2,10 +2,40 @@
     (
         modifiers: [
             Super,
+            Shift,
         ],
-        key: "d",
-        description: Some("discord"),
-    ): Spawn("discord"),
+        key: "s",
+        description: Some("spotify"),
+    ): Spawn("spotify-launcher"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "backslash",
+        description: Some("PhoneSMS"),
+    ): Spawn("kdeconnect-sms"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "f",
+        description: Some("files"),
+    ): Spawn("nautilus --new-window"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "bracketleft",
+        description: Some("cycle theme previous"),
+    ): Spawn("theme-select-previous.sh"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "r",
+    ): Resizing(Inwards),
     (
         modifiers: [
             Super,
@@ -16,17 +46,9 @@
         modifiers: [
             Super,
         ],
-        key: "l",
-        description: Some("LmStudio"),
-    ): Spawn("lmstudio"),
-    (
-        modifiers: [
-            Super,
-            Shift,
-        ],
-        key: "s",
-        description: Some("spotify"),
-    ): Spawn("spotify-launcher"),
+        key: "n",
+        description: Some("Neovim"),
+    ): Spawn("kitty -e nvim"),
     (
         modifiers: [
             Super,
@@ -39,9 +61,16 @@
         modifiers: [
             Super,
         ],
-        key: "e",
-        description: Some("text editor"),
-    ): Spawn("cosmic-edit"),
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+        description: Some("terminal"),
+    ): Spawn("kitty"),
     (
         modifiers: [
             Super,
@@ -53,45 +82,9 @@
         modifiers: [
             Super,
         ],
-        key: "f",
-        description: Some("files"),
-    ): Spawn("nautilus --new-window"),
-    (
-        modifiers: [
-            Super,
-        ],
         key: "c",
         description: Some("vscode"),
     ): Spawn("code"),
-    (
-        modifiers: [
-            Super,
-            Shift,
-        ],
-        key: "o",
-        description: Some("Obsidian"),
-    ): Spawn("obsidian"),
-    (
-        modifiers: [
-            Super,
-            Shift,
-        ],
-        key: "r",
-    ): Resizing(Inwards),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "backslash",
-        description: Some("PhoneSMS"),
-    ): Spawn("kdeconnect-sms"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "t",
-        description: Some("terminal"),
-    ): Spawn("kitty"),
     (
         modifiers: [
             Super,
@@ -104,9 +97,8 @@
     (
         modifiers: [
             Super,
-            Shift,
         ],
-        key: "bracketleft",
-        description: Some("cycle theme previous"),
-    ): Spawn("theme-select-previous.sh"),
+        key: "e",
+        description: Some("text editor"),
+    ): Spawn("cosmic-edit"),
 }

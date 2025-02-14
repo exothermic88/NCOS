@@ -117,6 +117,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
+vim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -126,7 +127,6 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
-
 
 ###################################################################
 
@@ -177,14 +177,11 @@ thefuck
 tgpt
 tldr
 wl-clipboard
-dialog
 
 fastfetch
-code
 discord
 spotify-launcher
 vlc
-obsidian
 kdeconnect
 
 qt6
@@ -193,12 +190,13 @@ ttf-firacode-nerd
 
 ############################################################################
 
-# Custom packages from local/repo
+# Custom packages from local-repo
+
+############################################################################
 brave-bin
 yay
 ncos-calamares
-sublime-text-4
-
+visual-studio-code-bin
 
 
 

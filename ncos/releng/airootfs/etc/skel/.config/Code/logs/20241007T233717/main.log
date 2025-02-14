@@ -1,6 +1,0 @@
-2024-10-07 23:37:17.339 [info] update#setState idle
-2024-10-07 23:37:37.493 [info] Extension host with pid 40979 exited with code: 0, signal: unknown.
-2024-10-07 23:37:47.342 [info] update#setState checking for updates
-2024-10-07 23:37:47.420 [info] update#setState idle
-2024-10-07 23:37:54.008 [info] Extension host with pid 41097 exited with code: 0, signal: unknown.
-2024-10-07 23:37:54.042 [error] [UtilityProcessWorker]: terminated unexpectedly with code 547301232, signal: unknown

@@ -90,5 +90,6 @@
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "all",
   "window.menuBarVisibility": "toggle",
-  "workbench.preferredDarkColorTheme": "Default Dark+"
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.sideBar.location": "right"
 }
