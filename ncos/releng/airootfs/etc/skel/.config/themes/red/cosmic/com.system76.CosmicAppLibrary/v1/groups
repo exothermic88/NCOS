@@ -1,0 +1,67 @@
+[
+    (
+        name: "cosmic-office",
+        icon: "folder-symbolic",
+        filter: Categories(
+            categories: [
+                "Office",
+            ],
+            exclude: [],
+            include: [
+                "org.gnome.Totem",
+                "org.gnome.eog",
+                "simple-scan",
+                "thunderbird",
+            ],
+        ),
+    ),
+    (
+        name: "cosmic-system",
+        icon: "folder-symbolic",
+        filter: Categories(
+            categories: [
+                "System",
+            ],
+            exclude: [
+                "com.system76.CosmicTerm",
+                "com.system76.CosmicStore",
+            ],
+            include: [
+                "gnome-language-selector",
+                "im-config",
+                "org.freedesktop.IBus.Setup",
+                "system76-driver",
+            ],
+        ),
+    ),
+    (
+        name: "cosmic-utilities",
+        icon: "folder-symbolic",
+        filter: Categories(
+            categories: [
+                "Utility",
+            ],
+            exclude: [
+                "com.system76.CosmicEdit",
+                "com.system76.CosmicFiles",
+            ],
+            include: [
+                "nm-connection-editor",
+            ],
+        ),
+    ),
+    (
+        name: "Other",
+        icon: "folder-symbolic",
+        filter: AppIds([
+            "bssh",
+            "bvnc",
+            "com.system76.CosmicStore",
+            "rygel-preferences",
+            "qvidcap",
+            "qv4l2",
+            "lftp",
+            "electron30",
+        ]),
+    ),
+]

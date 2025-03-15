@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the base themes directory
-themes_base="/etc/NCOS/themes"
+themes_base="$HOME/.config/themes/"
 # List of theme directories
 themes=("nord" "red" "purple")
 
@@ -15,7 +15,27 @@ fi
 
 # Read the current theme from the file
 current_theme_name=$(cat "$theme_file")
-echo "Current theme before change: $current_theme_name"  # Debug
+echo "Current theme before change: $current_theme_name"
+
+# Backup current config to current theme directory
+current_theme_dir="$themes_base/$current_theme_name"
+echo "Backing up current configuration to $current_theme_dir..."
+
+# Create directories if they don't exist
+mkdir -p "$current_theme_dir"
+mkdir -p "$current_theme_dir/kitty"
+mkdir -p "$current_theme_dir/code"
+
+# Backup Cosmic files
+cp -r ~/.config/cosmic/com.system76.Cosmic* "$current_theme_dir/cosmic/" 2>/dev/null
+
+# Backup Kitty config
+cp ~/.config/kitty/*.conf "$current_theme_dir/kitty/" 2>/dev/null
+
+# Backup VSCode settings
+cp ~/.config/Code/User/settings.json "$current_theme_dir/code/" 2>/dev/null
+
+echo "Backup completed."
 
 # Find the index of the current theme
 current_index=-1
@@ -26,16 +46,16 @@ for i in "${!themes[@]}"; do
     fi
 done
 
-echo "Current index: $current_index"  # Debug
+echo "Current index: $current_index"
 
 # Determine the next theme index
 if [ $current_index -eq -1 ]; then
-    next_index=0  # If the current theme is not found, default to the first theme
+    next_index=0
 else
-    next_index=$(( (current_index + 1) % ${#themes[@]} ))  # Cycle through themes
+    next_index=$(( (current_index + 1) % ${#themes[@]} ))
 fi
 
-echo "Next index: $next_index"  # Debug
+echo "Next index: $next_index"
 
 # Change to the next theme directory
 next_theme="${themes[$next_index]}"
@@ -45,9 +65,7 @@ cd "$themes_base/$next_theme" || { echo "Theme directory not found!"; exit 1; }
 echo "$next_theme" > "$theme_file"
 
 # Copy the relevant files to the config directory
-cp -r com.system76.CosmicBackground ~/.config/cosmic/
-cp -r com.system76.CosmicTheme.* ~/.config/cosmic/
-cp -r com.system76.CosmicTheme.*.Builder ~/.config/cosmic/
+cp -r cosmic ~/.config/
 
 cd kitty 
 cp -r *.conf ~/.config/kitty/

@@ -27,4 +27,5 @@ file_permissions=(
   ["/usr/local/bin/livecd-sound"]="0:0:755"
   ["/usr/bin/theme-select.sh"]="0:0:755"
   ["/usr/bin/theme-select-previous.sh"]="0:0:755"
+  ["/usr/bin/toggle_light_dark"]="0:0:755"  
 )

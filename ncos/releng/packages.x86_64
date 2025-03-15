@@ -133,6 +133,16 @@ zsh
 # NCOS PACKAGES
 
 ###################################################################
+itstool
+vala
+asciidoc
+dbus-glib
+appstream-glib
+
+##for xwaylandvideobridge
+#kdoctools
+#kpipewire
+
 firefox
 base-devel
 pipewire
@@ -154,7 +164,6 @@ xf86-video-intel
 xf86-video-amdgpu
 xf86-video-nouveau
 vulkan-radeon
-xwaylandvideobridge
 
 os-prober
 
@@ -186,6 +195,7 @@ kdeconnect
 
 qt6
 
+
 ttf-firacode-nerd
 
 ############################################################################
@@ -194,10 +204,13 @@ ttf-firacode-nerd
 
 ############################################################################
 brave-bin
-yay
+cosmic-ext-tweaks-git
 ncos-calamares
+libpamac-aur
+pamac-aur
 visual-studio-code-bin
-
+#xwaylandvideobridge
+yay
 
 
 

@@ -1,0 +1,112 @@
+{
+    (
+        modifiers: [
+            Super,
+            Ctrl,
+        ],
+        key: "bracketright",
+        description: Some("toggle light/dark mode"),
+    ): Spawn("toggle_light_dark"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "minus",
+    ): Minimize,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "semicolon",
+        description: Some("settings"),
+    ): Spawn("cosmic-settings"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "bracketleft",
+        description: Some("cycle previous"),
+    ): Spawn("theme-select-previous.sh"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+        description: Some("text editor"),
+    ): Spawn("cosmic-edit"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "backslash",
+        description: Some("PhoneSMS"),
+    ): Spawn("kdeconnect-sms"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "c",
+        description: Some("vscode"),
+    ): Spawn("code"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "n",
+        description: Some("Neovim"),
+    ): Spawn("kitty -e nvim"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "s",
+        description: Some("spotify"),
+    ): Spawn("spotify-launcher"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "f",
+        description: Some("files"),
+    ): Spawn("nautilus --new-window"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "bracketright",
+        description: Some("cycle next"),
+    ): Spawn("theme-select.sh"),
+    (
+        modifiers: [
+            Super,
+            Ctrl,
+            Alt,
+        ],
+        key: "s",
+        description: Some("suspend"),
+    ): Spawn("systemctl suspend"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+        description: Some("terminal"),
+    ): Spawn("kitty"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "r",
+    ): Resizing(Inwards),
+}
