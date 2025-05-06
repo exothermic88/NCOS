@@ -2,7 +2,7 @@
     state: Enabled,
     acceleration: Some((
         profile: Some(Adaptive),
-        speed: -0.018032810069297134,
+        speed: 0.10924763116956582,
     )),
     scroll_config: Some((
         method: Some(TwoFinger),

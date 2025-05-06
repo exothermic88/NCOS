@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Enable strict error handling
+set -e
+
+MULTIBOOT_DIR="/etc/NCOS/multiboot"
+GRUB_DEST="/etc/default/grub"
+
+if [ "$1" == "enable" ]; then
+    echo "Enabling multiboot..."
+    sudo cp "$MULTIBOOT_DIR/multi/grub" "$GRUB_DEST"
+    sudo grub-mkconfig -o /boot/grub/grub.cfg
+    echo "Multiboot enabled."
+
+elif [ "$1" == "disable" ]; then
+    echo "Disabling multiboot..."
+    sudo cp "$MULTIBOOT_DIR/single/grub" "$GRUB_DEST"
+    sudo grub-mkconfig -o /boot/grub/grub.cfg
+    echo "Multiboot disabled."
+
+else
+    echo "Usage: $0 [enable|disable]"
+    exit 1
+fi

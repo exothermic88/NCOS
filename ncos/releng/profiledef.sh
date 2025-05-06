@@ -28,4 +28,5 @@ file_permissions=(
   ["/usr/bin/theme-select.sh"]="0:0:755"
   ["/usr/bin/theme-select-previous.sh"]="0:0:755"
   ["/usr/bin/toggle_light_dark"]="0:0:755"  
+  ["/usr/bin/multiboot-toggle"]="0:0:755"
 )

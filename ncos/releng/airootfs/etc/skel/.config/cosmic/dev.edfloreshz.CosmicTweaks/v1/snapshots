@@ -1,8 +1,0 @@
-[
-    (
-        name: "NCOS-Default",
-        kind: User,
-        path: "/home/nic/.var/app/dev.edfloreshz.CosmicTweaks/data/dev.edfloreshz.CosmicTweaks/snapshots/NCOS-Default.ron",
-        created: "2025-03-11T16:16:07.854110235",
-    ),
-]

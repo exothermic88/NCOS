@@ -1,4 +1,6 @@
 (
+    grid_spacing: 100,
+    icon_size: 100,
     show_content: true,
     show_mounted_drives: false,
     show_trash: false,
