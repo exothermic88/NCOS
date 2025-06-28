@@ -15,7 +15,6 @@ cloud-init
 cryptsetup
 darkhttpd
 ddrescue
-dhclient
 dhcpcd
 diffutils
 dmidecode
@@ -67,6 +66,7 @@ memtest86+-efi
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
+mmc-utils
 modemmanager
 mtools
 nano
@@ -94,7 +94,6 @@ pv
 qemu-guest-agent
 refind
 reflector
-rp-pppoe
 rsync
 rxvt-unicode-terminfo
 screen
@@ -124,6 +123,7 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
+xdg-utils
 xfsprogs
 xl2tpd
 zsh
