@@ -206,11 +206,13 @@ ttf-firacode-nerd
 brave-bin
 #cosmic-ext-tweaks-git
 ncos-calamares
-libpamac-aur
-pamac-aur
+#libpamac-aur
+#pamac-aur
+pamac-aur-git
 visual-studio-code-bin
 #xwaylandvideobridge
 yay
+
 
 
 
