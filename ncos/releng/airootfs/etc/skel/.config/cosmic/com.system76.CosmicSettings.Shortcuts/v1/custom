@@ -2,21 +2,6 @@
     (
         modifiers: [
             Super,
-            Shift,
-        ],
-        key: "bracketright",
-        description: Some("cycle next"),
-    ): Spawn("theme-select.sh"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "e",
-        description: Some("text editor"),
-    ): Spawn("cosmic-edit"),
-    (
-        modifiers: [
-            Super,
         ],
         key: "minus",
     ): Minimize,
@@ -25,38 +10,15 @@
             Super,
             Shift,
         ],
-        key: "bracketleft",
-        description: Some("cycle previous "),
-    ): Spawn("theme-select-previous.sh"),
+        key: "backslash",
+    ): Spawn("toggle_light_dark"),
     (
         modifiers: [
             Super,
         ],
-        key: "t",
-        description: Some("terminal"),
-    ): Spawn("kitty"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "d",
-        description: Some("discord"),
-    ): Spawn("discord"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "n",
-        description: Some("Neovim"),
-    ): Spawn("kitty -e nvim"),
-    (
-        modifiers: [
-            Super,
-            Shift,
-        ],
-        key: "s",
-        description: Some("spotify"),
-    ): Spawn("spotify-launcher"),
+        key: "semicolon",
+        description: Some("settings"),
+    ): Spawn("cosmic-settings"),
     (
         modifiers: [
             Super,
@@ -68,9 +30,24 @@
         modifiers: [
             Super,
         ],
-        key: "c",
-        description: Some("vscode"),
-    ): Spawn("code"),
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
+        description: Some("terminal"),
+    ): Spawn("kitty"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "s",
+        description: Some("spotify"),
+    ): Spawn("spotify-launcher"),
     (
         modifiers: [
             Super,
@@ -83,18 +60,25 @@
     (
         modifiers: [
             Super,
-            Shift,
         ],
-        key: "r",
-    ): Resizing(Inwards),
+        key: "c",
+        description: Some("vscode"),
+    ): Spawn("code"),
     (
         modifiers: [
             Super,
-            Ctrl,
+        ],
+        key: "e",
+        description: Some("text editor"),
+    ): Spawn("cosmic-edit"),
+    (
+        modifiers: [
+            Super,
+            Shift,
         ],
         key: "bracketright",
-        description: Some("toggle light/dark mode"),
-    ): Spawn("toggle_light_dark"),
+        description: Some("cycle next"),
+    ): Spawn("theme-select.sh"),
     (
         modifiers: [
             Super,
@@ -105,8 +89,23 @@
     (
         modifiers: [
             Super,
+            Shift,
         ],
-        key: "semicolon",
-        description: Some("settings"),
-    ): Spawn("cosmic-settings"),
+        key: "r",
+    ): Resizing(Inwards),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "bracketleft",
+        description: Some("cycle previous "),
+    ): Spawn("theme-select-previous.sh"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "n",
+        description: Some("Neovim"),
+    ): Spawn("kitty -e nvim"),
 }

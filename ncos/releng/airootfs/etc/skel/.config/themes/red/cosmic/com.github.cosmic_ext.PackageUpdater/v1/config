@@ -1,0 +1,9 @@
+(
+    package_manager: Some(Pacman),
+    check_interval_minutes: 60,
+    auto_check_on_startup: true,
+    include_aur_updates: true,
+    show_notifications: true,
+    show_update_count: true,
+    preferred_terminal: "kitty",
+)

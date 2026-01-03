@@ -145,6 +145,7 @@ appstream-glib
 
 firefox
 base-devel
+pacman-contrib
 pipewire
 pulseaudio-alsa
 networkmanager
@@ -207,12 +208,12 @@ brave-bin
 #cosmic-ext-tweaks-git
 ncos-calamares
 #libpamac-aur
-#pamac-aur
-pamac-aur-git
+pamac-aur
+#pamac-aur-git
 visual-studio-code-bin
 #xwaylandvideobridge
 yay
-
-
+cosmic-applet-package-updater-git
+cosmic-ext-applet-logomenu-git
 
 

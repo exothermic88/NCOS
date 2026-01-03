@@ -1,8 +1,10 @@
 Some(([
+    "dev.cappsy.CosmicExtAppletLogoMenu",
     "com.system76.CosmicAppletWorkspaces",
     "com.system76.CosmicAppList",
 ], [
     "com.system76.CosmicAppletStatusArea",
+    "com.github.cosmic_ext.PackageUpdater",
     "com.system76.CosmicAppletBluetooth",
     "com.system76.CosmicAppletNetwork",
     "com.system76.CosmicAppletAudio",

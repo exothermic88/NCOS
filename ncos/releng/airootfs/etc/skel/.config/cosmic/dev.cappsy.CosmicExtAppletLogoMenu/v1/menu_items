@@ -1,0 +1,49 @@
+(
+    items: [
+        (
+            item_type: LaunchAction,
+            label: Some("Applications"),
+            command: Some("cosmic-app-library"),
+        ),
+        (
+            item_type: LaunchAction,
+            label: Some("Workspaces"),
+            command: Some("cosmic-workspaces"),
+        ),
+        (
+            item_type: Divider,
+            label: None,
+            command: None,
+        ),
+        (
+            item_type: LaunchAction,
+            label: Some("Terminal"),
+            command: Some("kitty"),
+        ),
+        (
+            item_type: LaunchAction,
+            label: Some("Files"),
+            command: Some("nautilus"),
+        ),
+        (
+            item_type: LaunchAction,
+            label: Some("Software"),
+            command: Some("pamac-manager"),
+        ),
+        (
+            item_type: LaunchAction,
+            label: Some("Settings"),
+            command: Some("cosmic-settings"),
+        ),
+        (
+            item_type: Divider,
+            label: None,
+            command: None,
+        ),
+        (
+            item_type: LaunchAction,
+            label: Some("About system"),
+            command: Some("cosmic-settings about"),
+        ),
+    ],
+)
