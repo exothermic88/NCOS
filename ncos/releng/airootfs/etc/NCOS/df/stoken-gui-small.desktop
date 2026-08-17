@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=Software Token (small)
+GenericName=Software Token
+Comment=RSA SecurID-compatible software token
+Exec=stoken-gui --small
+Icon=stoken-gui
+Terminal=false
+Type=Application
+Categories=Security;GTK;Utility;
+Keywords=RSA;SecurID;Authenticator;
+Name[en]=Software Token (small)
+Name[en_US]=Software Token (small)
+Name[en_US.UTF-8]=Software Token (small)
+Comment[en]=RSA SecurID-compatible software token
+Comment[en_US]=RSA SecurID-compatible software token
+Comment[en_US.UTF-8]=RSA SecurID-compatible software token
+Keywords[en]=RSA;SecurID;Authenticator;
+Keywords[en_US]=RSA;SecurID;Authenticator;
+Keywords[en_US.UTF-8]=RSA;SecurID;Authenticator;
+PrefersNonDefaultGPU=false
+NoDisplay=true
+StartupNotify=false
+

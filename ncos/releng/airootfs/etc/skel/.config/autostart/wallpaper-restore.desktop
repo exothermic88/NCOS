@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Restore wallpaper (awww)
+Exec=bash -c "sleep 2 && /usr/bin/wallcycle.sh restore"
+X-GNOME-Autostart-enabled=true

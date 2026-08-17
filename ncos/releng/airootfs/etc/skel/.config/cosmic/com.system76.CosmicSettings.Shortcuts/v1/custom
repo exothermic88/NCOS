@@ -2,44 +2,18 @@
     (
         modifiers: [
             Super,
-        ],
-        key: "minus",
-    ): Minimize,
-    (
-        modifiers: [
-            Super,
             Shift,
         ],
-        key: "backslash",
-    ): Spawn("toggle_light_dark"),
+        key: "w",
+        description: Some("Wallpaper Select"),
+    ): Spawn("wallselect.sh"),
     (
         modifiers: [
             Super,
         ],
-        key: "semicolon",
-        description: Some("settings"),
-    ): Spawn("cosmic-settings"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "backslash",
-        description: Some("PhoneSMS"),
-    ): Spawn("kdeconnect-sms"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "d",
-        description: Some("discord"),
-    ): Spawn("discord"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "t",
-        description: Some("terminal"),
-    ): Spawn("kitty"),
+        key: "c",
+        description: Some("vscode"),
+    ): Spawn("code"),
     (
         modifiers: [
             Super,
@@ -51,26 +25,45 @@
     (
         modifiers: [
             Super,
+        ],
+        key: "d",
+        description: Some("discord"),
+    ): Spawn("discord"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "f",
+        description: Some("files"),
+    ): Spawn("nautilus --new-window"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "n",
+        description: Some("Neovim"),
+    ): Spawn("kitty -e nvim"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "minus",
+    ): Minimize,
+    (
+        modifiers: [
+            Super,
             Ctrl,
-            Alt,
         ],
-        key: "s",
-        description: Some("suspend"),
-    ): Spawn("systemctl suspend"),
+        key: "g",
+        description: Some("steam"),
+    ): Spawn("steam"),
     (
         modifiers: [
             Super,
+            Ctrl,
         ],
-        key: "c",
-        description: Some("vscode"),
-    ): Spawn("code"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "e",
-        description: Some("text editor"),
-    ): Spawn("cosmic-edit"),
+        key: "bracketright",
+    ): Spawn("toggle_light_dark"),
     (
         modifiers: [
             Super,
@@ -83,16 +76,16 @@
         modifiers: [
             Super,
         ],
-        key: "f",
-        description: Some("files"),
-    ): Spawn("nautilus --new-window"),
+        key: "backslash",
+        description: Some("PhoneSMS"),
+    ): Spawn("kdeconnect-sms"),
     (
         modifiers: [
             Super,
-            Shift,
         ],
-        key: "r",
-    ): Resizing(Inwards),
+        key: "t",
+        description: Some("terminal"),
+    ): Spawn("kitty"),
     (
         modifiers: [
             Super,
@@ -104,8 +97,39 @@
     (
         modifiers: [
             Super,
+            Ctrl,
+            Alt,
         ],
-        key: "n",
-        description: Some("Neovim"),
-    ): Spawn("kitty -e nvim"),
+        key: "s",
+        description: Some("suspend"),
+    ): Spawn("systemctl suspend"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "g",
+        description: Some("steamos"),
+    ): Spawn("steam -gamepadui"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+        description: Some("text editor"),
+    ): Spawn("cosmic-edit"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "semicolon",
+        description: Some("settings"),
+    ): Spawn("cosmic-settings"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "r",
+    ): Resizing(Inwards),
 }

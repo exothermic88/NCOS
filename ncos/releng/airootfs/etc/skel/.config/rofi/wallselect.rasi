@@ -1,0 +1,84 @@
+/* wallselect.rasi — thumbnail grid for wallselect.sh */
+
+configuration {
+    show-icons: true;
+}
+
+* {
+    background-color: transparent;
+    text-color: #ffffff;
+    font: "Sans 11";
+}
+
+window {
+    width: 70%;
+    anchor: center;
+    location: center;
+    border-radius: 16px;
+    border: 2px;
+    border-color: #ffffff33;
+    background-color: #16161eee;
+    padding: 24px;
+}
+
+mainbox {
+    orientation: vertical;
+    spacing: 16px;
+    children: [ inputbar, listview ];
+}
+
+inputbar {
+    orientation: horizontal;
+    spacing: 8px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    background-color: #ffffff0d;
+    children: [ prompt, entry ];
+}
+
+prompt {
+    font: "Sans Bold 11";
+    text-color: #a970ff;
+}
+
+entry {
+    placeholder: "filter...";
+    placeholder-color: #ffffff55;
+}
+
+listview {
+    columns: 3;
+    lines: 2;
+    flow: horizontal;
+    fixed-columns: true;
+    fixed-height: false;
+    spacing: 16px;
+    scrollbar: false;
+}
+
+element {
+    orientation: vertical;
+    spacing: 8px;
+    padding: 10px;
+    border-radius: 12px;
+    border: 2px;
+    border-color: transparent;
+}
+
+element-icon {
+    size: 11em;
+    horizontal-align: 0.5;
+}
+
+element-text {
+    background-color: inherit;
+    text-color: inherit;
+    horizontal-align: 0.5;
+    vertical-align: 0.5;
+}
+
+element selected {
+    border-color: #a970ff;
+    background-color: #a970ff22;
+    text-color: #a970ff;
+}

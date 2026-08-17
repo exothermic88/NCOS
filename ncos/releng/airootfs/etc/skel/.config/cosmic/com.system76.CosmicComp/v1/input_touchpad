@@ -4,6 +4,7 @@
         profile: Some(Adaptive),
         speed: 0.10924763116956582,
     )),
+    click_method: Some(ButtonAreas),
     scroll_config: Some((
         method: Some(TwoFinger),
         natural_scroll: Some(true),

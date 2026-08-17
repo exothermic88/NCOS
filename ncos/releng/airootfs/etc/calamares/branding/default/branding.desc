@@ -48,7 +48,7 @@ windowExpanding:    normal
 # This setting is ignored if "fullscreen" is selected for
 # *windowExpanding*, above. If not set, use constants defined
 # in CalamaresUtilsGui, 800x520.
-windowSize: 1024px,735px
+windowSize: 64em,48em
 
 # Placement of Calamares window. Either "center" or "free".
 # Whether "center" actually works does depend on the window
@@ -78,7 +78,7 @@ windowPlacement: center
 # to putting the sidebar on the left. Also valid is "qml,top".
 # While "widget,top" is valid, the widgets code is **not** flexible
 # and results will be terrible.
-sidebar: widget
+sidebar: qml
 
 # Kind of navigation (button panel on the bottom).
 #  - "widget" or unset, use traditional navigation
@@ -87,7 +87,7 @@ sidebar: widget
 # In addition, you **may** specify a side, separated by a comma,
 # from the kind. The same sides are valid as for *sidebar*,
 # except the default is *bottom*.
-navigation: widget
+navigation: qml
 
 
 ### STRINGS, IMAGES AND COLORS
@@ -123,8 +123,8 @@ navigation: widget
 strings:
     productName:         NCOS
     shortProductName:    NCOS
-    version:             ALPHA
-    shortVersion:        ALPHA
+    version:             "2.0"
+    shortVersion:        "2.0"
     versionedName:       NCOS
     shortVersionedName:  NCOS
     bootloaderEntryName: NCOS
@@ -174,9 +174,13 @@ images:
 # These colors can **also** be set through the stylesheet, if the
 # branding component also ships a stylesheet.qss. Then they are
 # the corresponding CSS attributes of #sidebarApp.
+# NCOS Nord palette — keep in sync: stylesheet.qss / show.qml /
+# calamares-sidebar.qml / calamares-navigation.qml
 style:
-   SidebarBackground:    "#292F34"
-   SidebarText:          "#FFFFFF"
+   SidebarBackground:        "#2E3440"
+   SidebarText:              "#D8DEE9"
+   SidebarTextCurrent:       "#2E3440"
+   SidebarBackgroundCurrent: "#88C0D0"
 
 ### SLIDESHOW
 #

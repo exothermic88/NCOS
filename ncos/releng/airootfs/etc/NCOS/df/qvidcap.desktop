@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Qt V4L2 video capture utility
+Comment=Viewer for video capture
+Exec=qvidcap
+Icon=qvidcap
+Terminal=false
+Type=Application
+Categories=AudioVideo;
+Keywords=video;grabber;V4L;
+Name[en]=Qt V4L2 video capture utility
+Name[en_US]=Qt V4L2 video capture utility
+Name[en_US.UTF-8]=Qt V4L2 video capture utility
+Comment[en]=Viewer for video capture
+Comment[en_US]=Viewer for video capture
+Comment[en_US.UTF-8]=Viewer for video capture
+Keywords[en]=video;grabber;V4L;
+Keywords[en_US]=video;grabber;V4L;
+Keywords[en_US.UTF-8]=video;grabber;V4L;
+PrefersNonDefaultGPU=false
+NoDisplay=true
+StartupNotify=false
+

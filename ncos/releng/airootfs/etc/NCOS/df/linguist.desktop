@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Qt Linguist
+Comment=Add translations to Qt applications
+Exec=linguist6 %F
+Icon=linguist
+MimeType=text/vnd.trolltech.linguist;application/x-linguist;
+Terminal=false
+Type=Application
+Categories=Qt;Development;
+Name[en]=Qt Linguist
+Name[en_US]=Qt Linguist
+Name[en_US.UTF-8]=Qt Linguist
+Comment[en]=Add translations to Qt applications
+Comment[en_US]=Add translations to Qt applications
+Comment[en_US.UTF-8]=Add translations to Qt applications
+PrefersNonDefaultGPU=false
+NoDisplay=true
+StartupNotify=false
+

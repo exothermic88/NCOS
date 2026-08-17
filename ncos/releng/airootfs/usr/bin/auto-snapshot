@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+# auto-snapshot - configure grub-btrfsd to track Timeshift snapshots and enable it
+set -euo pipefail
+
+if [[ $EUID -ne 0 ]]; then
+    echo "auto-snapshot must be run as root. Try: sudo auto-snapshot" >&2
+    exit 1
+fi
+
+root_fs=$(findmnt -no FSTYPE /)
+if [[ $root_fs != btrfs ]]; then
+    cat >&2 <<'EOF'
+==========================================================
+ ERROR: FILE SYSTEM IS NOT BTRFS
+ CANNOT INITIALIZE AUTOMATIC BACKUPS
+==========================================================
+EOF
+    echo "Detected root filesystem: $root_fs" >&2
+    exit 1
+fi
+
+if ! command -v grub-btrfsd >/dev/null; then
+    echo "grub-btrfsd not found. Install the 'grub-btrfs' and 'inotify-tools' packages first." >&2
+    exit 1
+fi
+
+mkdir -p /etc/systemd/system/grub-btrfsd.service.d
+cat > /etc/systemd/system/grub-btrfsd.service.d/override.conf <<'EOF'
+[Service]
+ExecStart=
+ExecStart=/usr/bin/grub-btrfsd --syslog --timeshift-auto
+EOF
+
+systemctl daemon-reload
+systemctl enable --now grub-btrfsd.service
+
+echo "Automatic snapshot integration enabled."
+echo "Timeshift snapshots (BTRFS type) will now appear in the GRUB boot menu."

@@ -31,6 +31,7 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
+ghostty-terminfo
 gpart
 gpm
 gptfdisk
@@ -44,6 +45,7 @@ iw
 iwd
 jfsutils
 kitty-terminfo
+kmscon-terminfo
 ldns
 less
 lftp
@@ -77,6 +79,7 @@ nfs-utils
 nilfs-utils
 nmap
 ntfs-3g
+ntfsprogs
 nvme-cli
 open-iscsi
 open-vm-tools
@@ -133,15 +136,21 @@ zsh
 # NCOS PACKAGES
 
 ###################################################################
+
+ncos-assistant
+ncos-package-update-applet
+ncos-weather-applet
+
+###################################################################
+
+# Pacman Custom Packages
+
+###################################################################
 itstool
 vala
 asciidoc
 dbus-glib
 appstream-glib
-
-##for xwaylandvideobridge
-#kdoctools
-#kpipewire
 
 firefox
 base-devel
@@ -158,12 +167,15 @@ htop
 bpytop
 plymouth
 timeshift
+grub-btrfs
+inotify-tools
+fwupd
 
 mesa
 xorg-server
-xf86-video-intel
-xf86-video-amdgpu
-xf86-video-nouveau
+#xf86-video-intel
+#xf86-video-amdgpu
+#xf86-video-nouveau
 vulkan-radeon
 
 os-prober
@@ -173,6 +185,8 @@ gnome
 cosmic-session
 cosmic-terminal
 cosmic-text-editor
+cosmic-store
+cosmic-monitor
 kitty
 cosmic-wallpapers
 power-profiles-daemon
@@ -188,13 +202,18 @@ tgpt
 tldr
 wl-clipboard
 
+
 fastfetch
 discord
 spotify-launcher
 vlc
-kdeconnect
+rofi
+awww
 
-qt6
+#kdeconnect
+
+qt6-declarative
+qt6-5compat
 
 
 ttf-firacode-nerd
@@ -208,12 +227,13 @@ brave-bin
 #cosmic-ext-tweaks-git
 ncos-calamares
 #libpamac-aur
-pamac-aur
+#pamac-aur
 #pamac-aur-git
 visual-studio-code-bin
-#xwaylandvideobridge
 yay
-cosmic-applet-package-updater-git
-cosmic-ext-applet-logomenu-git
+localsend
+popsicle
+android-messages-desktop-bin
+gnome-network-displays
 
 

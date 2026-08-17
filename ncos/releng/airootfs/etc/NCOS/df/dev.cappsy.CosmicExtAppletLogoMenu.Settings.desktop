@@ -1,0 +1,25 @@
+[Desktop Entry]
+Name=Logo Menu Settings
+Name[es]=Ajustes de Menú Logo
+Comment=Settings application for COSMIC™ Logo Menu applet
+Comment[es]=Aplicación de ajuster para el applet de COSMIC™ Menú Logo
+Type=Application
+Icon=dev.cappsy.CosmicExtAppletLogoMenu
+Exec=cosmic-ext-logomenu-settings
+Terminal=false
+StartupNotify=true
+StartupWMClass=cosmic-ext-logomenu-settings
+Categories=COSMIC;
+Keywords=COSMIC
+Name[en]=Logo Menu Settings
+Name[en_US]=Logo Menu Settings
+Name[en_US.UTF-8]=Logo Menu Settings
+Comment[en]=Settings application for COSMIC™ Logo Menu applet
+Comment[en_US]=Settings application for COSMIC™ Logo Menu applet
+Comment[en_US.UTF-8]=Settings application for COSMIC™ Logo Menu applet
+Keywords[en]=COSMIC
+Keywords[en_US]=COSMIC
+Keywords[en_US.UTF-8]=COSMIC
+PrefersNonDefaultGPU=false
+NoDisplay=true
+
